@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haodi Zhang"
+  name             : "Haodi Zhang (张昊迪)"
   avatar           : "profile.png"
-  bio              : "Assistant Professor with CSSE, Shenzhen University"
+  bio              : "Assistant Professor\n College of Computer Science and Software Engineering\n Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
