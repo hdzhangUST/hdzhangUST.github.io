@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Haodi Zhang (张昊迪)"
+title                    : "Dr. Haodi Zhang"
 title_separator          : "-"
 name                     : &name "Testing 1"
 description              : &description "personal description"
