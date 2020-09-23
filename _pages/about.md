@@ -19,7 +19,7 @@ received my Ph.D. in Computer Science from HKUST in 2016. Before that, I receive
 
 Highlight News
 ======
-* **<font color=red>`Paper`</font>** Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
+* **<font color=red>Paper</font>** Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
 * **<font color=red>[Activity]</font>** Invited to serve on Program Committee of _AAAI_ 2021
 * **<font color=red>[Activity]</font>** Invited to serve on Program Committee of _EMNLP_ 2021
 * **<font color=red>[Activity]</font>** Invited to serve on Program Committee of _NeurIPS_ 2021
