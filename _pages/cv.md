@@ -33,21 +33,22 @@ Full list of my publications is available on [DBLP](https://dblp.org/pid/165/332
   
 Grant
 ------
-* Theory and application of nonmonotonic reasoning in characterizing action languages, sponsored by _National Natural Science Foundation of China (NSFC)_, RMB 250,000, 2019-2021, PI
-* Embedding Explicit Knowledge in Deep Reinforcement Learning, sponsored by _Finance Commission of Shenzhen Municipality_, RMB 2,700,000, 2019-2021, PI
-* Logic Based Artificial Intelligence in Game Playing, sponsored by _Tencent Open Fund_, RMB 50,000, 2019-2020, PI
+* PI, _National Natural Science Foundation of China (NSFC)_, RMB 250,000, 2019-2021. (国家自然科学基金青年基金，负责人)
+* PI, _Finance Commission of Shenzhen Municipality_, RMB 2,700,000, 2019-2021. (深圳市“孔雀计划”海外高层次人才科研基金，负责人)
+* PI, _Tencent 'Rhinoceros Birds' - Scientific Research Foundation_ for Young Teachers of Shenzhen University, RMB 5,000, 2018-2019. (腾讯“犀牛鸟”-深圳大学青年教师科研基金项目，负责人)
+* PI, Natural Science Foundation of SZU, RMB 20,000 2018-2019. (深圳大学新引进教师科研启动项目，负责人)
 
 Selected Honors and Rewards
 ------
 * 2018 Shenzhen 'Peacock' High-level Talent
-* 2019 Tencent 'Rhino-bird' Open Fund Young Researcher Award
+* 2019 Tencent 'Rhinoceros Birds' Open Fund Young Researcher Award
 * 2019 Best New Teacher Award, CSSE, Shenzhen University
 * 2019 Excellence Award in 'Torch' teaching program, Shenzhen University
 * 2019 Best Class Award, CSSE, Shenzhen University
 
 Professional Services
 ------
-* **TPC for:** AAAI Conference on Artificial Intelligence (AAAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2015, International Conference on Principles of Knowledge Representation and Reasoning (KR) 2014.
+* **TPC member for:** AAAI Conference on Artificial Intelligence (AAAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2015, International Conference on Principles of Knowledge Representation and Reasoning (KR) 2014.
 * **Reviewer for:** AAAI Conference on Artificial Intelligence (AAAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2018, International Joint Conference on Artificial Intelligence (IJCAI) 2016, AAAI Conference on Artificial Intelligence (AAAI) 2015, International Joint Conference on Artificial Intelligence (IJCAI) 2015, International Conference on Principles of Knowledge Representation and Reasoning (KR) 2014, AAAI Conference on Artificial Intelligence (AAAI) 2013, International Joint Conference on Artificial Intelligence (IJCAI) 2011, AAAI Conference on Artificial Intelligence (AAAI) 2010, IEEE Access.
 
 Teaching
