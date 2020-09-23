@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haodi Zhang (张昊迪)"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, CSSE, Shenzhen University"#\n "College of Computer Science and Software Engineering"\n "Shenzhen University"
+  bio              : "Assistant Professor, Computer Science, Shenzhen University"#\n "College of Computer Science and Software Engineering"\n "Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Xev_4JMAAAAJ&hl=en"
-  email            : zhanghd.ustc@gmail.com
+  googlescholar    : #"https://scholar.google.com/citations?user=Xev_4JMAAAAJ&hl=en"
+  email            : "zhanghd.ustc@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  dblp             : "https://dblp.org/pid/165/3321.html" 
 
 # Reading Files
 include:
