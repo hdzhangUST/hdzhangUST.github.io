@@ -16,14 +16,14 @@ received my Ph.D. in Computer Science from HKUST in 2016. Before that, I receive
 
 Highlight News
 ------
-* [Paper] Our paper on cleaning uncertainty with crowdingsourcing is accepted by TKDE
-* [Program Committee] Invited to serve on Program Committee of AAAI 2021
-* [Program Committee] Invited to serve on Program Committee of EMNLP 2021
-* [Program Committee] Invited to serve on Program Committee of NeurIPS 2021
-* [Paper] Our paper on deep learning in game playing is accepted by AAAI 2020
-* [Program Committee] Invited to serve on Program Committee of AAAI 2020, IJCAI 2020
-* [Paper] Our paper on IQ tests for machine intelligence is accepted by IJCAI 2019
-* [Program Committee] Invited to serve on Program Committee of AAAI 2019, IJCAI 2019
+* [**Paper**] Our paper on cleaning uncertainty with crowdingsourcing is accepted by _TKDE_
+* [**Program Committee**] Invited to serve on Program Committee of _AAAI_ 2021
+* [**Program Committee**] Invited to serve on Program Committee of _EMNLP_ 2021
+* [**Program Committee**] Invited to serve on Program Committee of _NeurIPS_ 2021
+* [**Paper**] Our paper on deep learning in game playing is accepted by _AAAI_ 2020
+* [**Program Committee**] Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
+* [**Paper**] Our paper on IQ tests for machine intelligence is accepted by _IJCAI_ 2019
+* [**Program Committee**] Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
 
 
 Getting started
