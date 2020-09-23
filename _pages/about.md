@@ -14,7 +14,7 @@ Dr. Haodi Zhang (张昊迪)
 **College of Computer Science and Software Engineering**<br>
 **Shenzhen University**
 
-> **<font color=#360206> A joyful heart promoteth healing, but a broken spirit  drieth up the bones. --<cite>Proverbs</cite> </font>**
+> <font color=#360206> **A joyful heart promoteth healing, but a broken spirit  drieth up the bones. --<cite>Proverbs</cite>** </font>
 
 I am currently an Assistant Professor in Computer Science and Software Engineering, Shenzhen University, China. I was a Postdoctoral Research Fellow in IELM Department of Hong Kong University of Science and Technology (2016-2017), and
 received my Ph.D. in Computer Science from HKUST in 2016. Before that, I received my B.S. in Computer Science from University of Science and Technology of China in 2009.
