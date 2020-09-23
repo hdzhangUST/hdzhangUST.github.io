@@ -25,9 +25,11 @@ Work experience
 Publications
 ======
 Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
-;  <ul>{% for post in site.publications %}
-;    {% include archive-single-cv.html %}
-;  {% endfor %}</ul>
+<div style='display: none'>
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+</div>
   
 Funding
 ======
