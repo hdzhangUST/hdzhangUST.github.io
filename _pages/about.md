@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "Haodi Zhang, Ph.D."
 author_profile: true
 redirect_from: 

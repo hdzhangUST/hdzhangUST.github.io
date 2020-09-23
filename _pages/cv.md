@@ -31,11 +31,16 @@ Full list of my publications is available on [DBLP](https://dblp.org/pid/165/332
   {% endfor %}</ul>
 </div>
   
-Funding
+Grant
 ======
 * Theory and application of nonmonotonic reasoning in characterizing action languages, sponsored by _National Natural Science Foundation of China (NSFC)_, RMB 250,000, 2019-2021, PI
 * Embedding Explicit Knowledge in Deep Reinforcement Learning, sponsored by _Finance Commission of Shenzhen Municipality_, RMB 2,700,000, 2019-2021, PI
 * Logic Based Artificial Intelligence in Game Playing, sponsored by _Tencent Open Fund_, RMB 50,000, 2019-2020, PI
 
-
-  
+Selected Honors and Rewards
+======
+* 2018 Shenzhen 'Peacock' High-level Talent
+* 2019 Tencent 'Rhino-bird' Open Fund Young Researcher Award
+* 2019 Best New Teacher Award, CSSE, Shenzhen University
+* 2019 Excellence Award in 'Torch' teaching program, Shenzhen University
+* 2019 Best Class Award, CSSE, Shenzhen University

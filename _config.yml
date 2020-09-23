@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Haodi Zhang (张昊迪)"
+  name             : "Dr. Haodi Zhang\n(张昊迪)"
   avatar           : "profile.png"
   bio              : "Assistant Professor, Computer Science, Shenzhen University"
   location         : "Shenzhen, China"
