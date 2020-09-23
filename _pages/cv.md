@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,16 +16,18 @@ Education
 
 Work experience
 ======
+* 2017-now: Assistant Professor
+  * CSSE, Shenzhen University, China
 * 2016-2017: Postdoctoral Research Fellow
-  * Github University
+  * IELM, Hong Kong University of Science and Technology
   * Host: Professor Xiangtong Qi
 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Talks
 ======
