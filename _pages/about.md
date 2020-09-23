@@ -14,6 +14,7 @@ received my Ph.D. in Computer Science from HKUST in 2016. Before that, I receive
 Highlight News
 ------
 <<<<<<< HEAD
+<<<<<<< HEAD
 * **[Paper]** Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_ 
 * **[Program Committee]** Invited to serve on Program Committee of _AAAI_ 2021
 * **[Program Committee]** Invited to serve on Program Committee of _EMNLP_ 2021
@@ -23,6 +24,8 @@ Highlight News
 * **[Paper]** Our paper on IQ tests for machine intelligence is accepted by _**IJCAI**_ 2019
 * **[Program Committee]** Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
 =======
+=======
+>>>>>>> parent of 533e91d... conf
 * [**Paper**] Our paper on cleaning uncertainty with crowdingsourcing is accepted by _TKDE_
 * [**Program Committee**] Invited to serve on Program Committee of _AAAI_ 2021
 * [**Program Committee**] Invited to serve on Program Committee of _EMNLP_ 2021
@@ -31,6 +34,9 @@ Highlight News
 * [**Program Committee**] Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
 * [**Paper**] Our paper on IQ tests for machine intelligence is accepted by _IJCAI_ 2019
 * [**Program Committee**] Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
+<<<<<<< HEAD
+>>>>>>> parent of 533e91d... conf
+=======
 >>>>>>> parent of 533e91d... conf
 
 

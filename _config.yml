@@ -83,6 +83,7 @@ author:
   name             : "Haodi Zhang (张昊迪)"
   avatar           : "profile.png"
 <<<<<<< HEAD
+<<<<<<< HEAD
   bio              : "Assistant Professor, Computer Science, Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
@@ -96,6 +97,12 @@ author:
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+=======
+  bio              : "Assistant Professor, CSSE, Shenzhen University"#\n "College of Computer Science and Software Engineering"\n "Shenzhen University"
+  location         : "Shenzhen, China"
+  employer         :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+>>>>>>> parent of 533e91d... conf
   googlescholar    : "https://scholar.google.com/citations?user=Xev_4JMAAAAJ&hl=en"
   email            : zhanghd.ustc@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -130,6 +137,9 @@ author:
 =======
   wikipedia        :
 
+<<<<<<< HEAD
+>>>>>>> parent of 533e91d... conf
+=======
 >>>>>>> parent of 533e91d... conf
 
 # Reading Files
