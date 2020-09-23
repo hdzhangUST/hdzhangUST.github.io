@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching
-------
 `Fall 2020` Natural Language Processing, SZU<br>
 `Fall 2020` Discrete Mathematics, SZU<br>
 `Spring 2020` Natural Language Processing, HKUST<br>
@@ -19,6 +17,7 @@ Teaching
 
 Details
 ------
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
