@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Haodi Zhang, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,8 +13,8 @@ received my Ph.D. in Computer Science from HKUST in 2016. Before that, I receive
 
 ------
 
-## Highlight News
-------
+Highlight News
+======
 * **[Paper]** Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_ 
 * **[Activity]** Invited to serve on Program Committee of _AAAI_ 2021
 * **[Activity]** Invited to serve on Program Committee of _EMNLP_ 2021

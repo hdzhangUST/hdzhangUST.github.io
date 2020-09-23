@@ -22,22 +22,18 @@ Work experience
   * IELM, Hong Kong University of Science and Technology
   * Host: Professor Xiangtong Qi
 
-
 Publications
 ======
+Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
 #  <ul>{% for post in site.publications %}
 #    {% include archive-single-cv.html %}
 #  {% endfor %}</ul>
   
-Talks
+Funding
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Theory and application of nonmonotonic reasoning in characterizing action languages, sponsored by _National Natural Science Foundation of China (NSFC)_, RMB 250,000, 2019-2021, PI
+* Embedding Explicit Knowledge in Deep Reinforcement Learning, sponsored by _Finance Commission of Shenzhen Municipality_, RMB 2,700,000, 2019-2021, PI
+* Logic Based Artificial Intelligence in Game Playing, sponsored by _Tencent Open Fund_, RMB 50,000, 2019-2020, PI
+
+
   
