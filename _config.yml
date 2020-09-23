@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Haodi Zhang"
 title_separator          : "-"
-name                     : &name "Testing 1"
+name                     : &name "Haodi Zhang"
 description              : &description "personal description"
 url                      : https://hdzhangUST.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -89,7 +89,7 @@ author:
   googlescholar    : #"https://scholar.google.com/citations?user=Xev_4JMAAAAJ&hl=en"
   email            : "zhanghd.ustc@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : [DBLP](https://dblp.org/pid/165/3321.html)
+  uri              : "[DBLP](https://dblp.org/pid/165/3321.html)"
   bitbucket        :
   codepen          :
   dribbble         :
