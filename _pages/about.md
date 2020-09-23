@@ -7,16 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
-Testing
-======
 
 I am currently an Assistant Professor in Computer Science and Software Engineering, Shenzhen University, China. I was a Postdoctoral Research Fellow in IELM Department of Hong Kong University of Science and Technology (2016-2017), and
 received my Ph.D. in Computer Science from HKUST in 2016. Before that, I received my B.S. in Computer Science from University of Science and Technology of China in 2009.
 
 Highlight News
 ------
-* **[Paper]** Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
+* **[Paper]** Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_ 
 * **[Program Committee]** Invited to serve on Program Committee of _AAAI_ 2021
 * **[Program Committee]** Invited to serve on Program Committee of _EMNLP_ 2021
 * **[Program Committee]** Invited to serve on Program Committee of _NeurIPS_ 2021
