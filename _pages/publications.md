@@ -1,10 +1,15 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
+Publications
+------
+Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
+
+<div style='display: none'>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -14,3 +19,4 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+</div>

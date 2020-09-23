@@ -12,7 +12,7 @@ redirect_from:
 Education
 ------
 * B.S. in CS, University of Science and Technology of China, 2009
-* Ph.D in CSE, Hong Kong University of Science and Technology, 2016 (Advised by [Prof. Fangzhen Lin](https://www.cse.ust.hk/admin/people/faculty/profile/flin) )
+* Ph.D in CSE, Hong Kong University of Science and Technology, 2016 (Advised by Prof. [Fangzhen Lin](https://www.cse.ust.hk/admin/people/faculty/profile/flin) )
 
 Work experience
 ------
@@ -47,7 +47,8 @@ Selected Honors and Rewards
 
 Professional Services
 ------
-
+* **TPC for:** AAAI Conference on Artificial Intelligence (AAAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2015, International Conference on Principles of Knowledge Representation and Reasoning (KR) 2014.
+* **Reviewer for:** AAAI Conference on Artificial Intelligence (AAAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2018, International Joint Conference on Artificial Intelligence (IJCAI) 2016, AAAI Conference on Artificial Intelligence (AAAI) 2015, International Joint Conference on Artificial Intelligence (IJCAI) 2015, International Conference on Principles of Knowledge Representation and Reasoning (KR) 2014, AAAI Conference on Artificial Intelligence (AAAI) 2013, International Joint Conference on Artificial Intelligence (IJCAI) 2011, AAAI Conference on Artificial Intelligence (AAAI) 2010, IEEE Access.
 
 Teaching
 ------
