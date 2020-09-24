@@ -18,9 +18,9 @@ or <br>
 
 Office
 ------
-<address>
-[Rm. 941, Computer Science Building, 
+[<address>
+Rm. 941, Computer Science Building, 
 Shenzhen University <br/>
 3688 Nanhai Boulevard, Nanshan, Shenzhen <br/>
-Guangdong Province, China, 518060](https://j.map.baidu.com/eb/TWn)
-</address>
+Guangdong Province, China, 518060
+</address>](https://j.map.baidu.com/eb/TWn)
