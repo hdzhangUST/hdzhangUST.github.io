@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-> 路漫漫而修远兮，吾将上下而求索。---<cite>屈原</cite>
+> Do not go gentle into that good night.<br>
+Rage, rage against the dying of the light. ---<cite>Dylan Thomas</cite>
 
 Research Topics
 ------

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-> A joyful heart promoteth healing, but a broken spirit drieth up the bones. ---<cite>Proverbs 17:22</cite>
+> Though I walk through the valley of the shadow of  death, I will fear no evil: for thou art with me; thy rod and thy staff, they comfort me. ---<cite>Psalms 23:4</cite>
 
 
 Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/cn/people?195315))
