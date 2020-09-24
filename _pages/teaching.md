@@ -8,15 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
-`Sep. 2020` Natural Language Processing, SZU<br>
-`Sep. 2020` Discrete Mathematics, SZU<br>
-`Feb. 2020` Natural Language Processing, HKUST<br>
-`Feb. 2019` Compilers, SZU<br>
-`Sep. 2018` Discrete Mathematics, SZU<br>
-`Feb. 2018` Programming Languages, SZU<br>
+`2020 Sep.` Natural Language Processing, SZU<br>
+`2020 Sep.` Discrete Mathematics, SZU<br>
+`2020 Feb.` Natural Language Processing, HKUST<br>
+`2019 Feb.` Compilers, SZU<br>
+`2018 Sep.` Discrete Mathematics, SZU<br>
+`2018 Feb.` Programming Languages, SZU<br>
 
-Details
-------
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
