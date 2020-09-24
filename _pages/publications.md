@@ -13,7 +13,7 @@ Research Topics
   * Communication policy learning
 * Interpretable AI models for
   * Diagnosis
-* Intelligence measurement
+* Intelligence measurements
 * Crowdingsourcing for
   * Uncertain data cleaning
   * Best path selection
