@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-> The fruit of righteousness in peace is sown for them  that make peace.---<cite>John 3:18</cite>
+> The fruit of righteousness in peace is sown for them  that make peace. ---<cite>John 3:18</cite>
 
 
 Teaching
