@@ -8,14 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+
+> A joyful heart promoteth healing;<br>
+A broken spirit drieth up the bones. <cite><cite>Proverbs</cite></cite>
+
+
 Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/cn/people?195315))
 ======
 **Assistant Professor**<br>
 **College of Computer Science and Software Engineering**<br>
 **Shenzhen University**
 
-
-> <font color=steelblue> "A joyful heart promoteth healing, but a broken spirit  drieth up the bones." <cite><cite>Proverbs</cite></cite> </font>
 
 <div style='display: none'>
 > 于浩歌狂热之际中寒，于天上看见深渊，<br>

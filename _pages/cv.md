@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 > 于浩歌狂热之际中寒，于天上看见深渊，<br>
 于一切眼中看见无所有，于无所希望中得救。---<cite>鲁迅</cite>
 
