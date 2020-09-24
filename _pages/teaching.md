@@ -8,12 +8,12 @@ author_profile: true
 
 {% include base_path %}
 
-`Fall 2020` Natural Language Processing, SZU<br>
-`Fall 2020` Discrete Mathematics, SZU<br>
-`Spring 2020` Natural Language Processing, HKUST<br>
-`Spring 2019` Compilers, SZU<br>
-`Fall 2018` Discrete Mathematics, SZU<br>
-`Spring 2018` Programming Languages, SZU<br>
+`Sep. 2020` Natural Language Processing, SZU<br>
+`Sep. 2020` Discrete Mathematics, SZU<br>
+`Feb. 2020` Natural Language Processing, HKUST<br>
+`Feb. 2019` Compilers, SZU<br>
+`Sep. 2018` Discrete Mathematics, SZU<br>
+`Feb. 2018` Programming Languages, SZU<br>
 
 Details
 ------
