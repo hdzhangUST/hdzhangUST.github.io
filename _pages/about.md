@@ -10,7 +10,7 @@ redirect_from:
 
 
 > A joyful heart promoteth healing;<br>
-A broken spirit drieth up the bones. ---<cite>Proverbs</cite>
+A broken spirit drieth up the bones. ---<cite>Proverbs 17:22</cite>
 
 
 Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/cn/people?195315))
