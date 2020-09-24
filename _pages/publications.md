@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+
+> 路漫漫而修远兮，吾将上下而求索。---<cite>屈原</cite>
 
 Research Topics
 ------

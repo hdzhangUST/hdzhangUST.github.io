@@ -1,12 +1,17 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
-
 {% include base_path %}
+
+> The fruit of righteousness in peace is sown for them  that make peace.---<cite>John 3:18</cite>
+
+
+Teaching
+======
 
 `2020 Sep.` Natural Language Processing, SZU<br>
 `2020 Sep.` Discrete Mathematics, SZU<br>

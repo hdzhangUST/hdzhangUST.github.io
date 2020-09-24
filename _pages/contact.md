@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+> A bruised reed shall he not break, and smoking flax shall he not quench. ---<cite>Isaiah 42:3</cite>
+
+
 Contact 
 ======
 
