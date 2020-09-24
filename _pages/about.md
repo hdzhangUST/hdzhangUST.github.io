@@ -14,7 +14,9 @@ Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/cn/people?195315))
 **College of Computer Science and Software Engineering**<br>
 **Shenzhen University**
 
+<div style='display: none'>
 > <font color=steelblue> "A joyful heart promoteth healing, but a broken spirit  drieth up the bones." <cite><cite>Proverbs</cite></cite> </font>
+</div>
 
 > 于浩歌狂热之际中寒，于天上看见深渊，<br>
 于一切眼中看见无所有，于无所希望中得救。---<cite>鲁迅</cite>
@@ -28,16 +30,6 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-<div style='display: none'>
-* **<font color=blue>[Paper]</font>** Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
-* **<font color=blue>[Activity]</font>** Invited to serve on Program Committee of _AAAI_ 2021
-* **<font color=blue>[Activity]</font>** Invited to serve on Program Committee of _EMNLP_ 2021
-* **<font color=blue>[Activity]</font>** Invited to serve on Program Committee of _NeurIPS_ 2021
-* **<font color=blue>[Paper]</font>** Our paper on deep learning in game playing is accepted by _**AAAI**_ 2020
-* **<font color=blue>[Activity]</font>** Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
-* **<font color=blue>[Paper]</font>** Our paper on IQ tests for machine intelligence is accepted by _**IJCAI**_ 2019
-* **<font color=blue>[Activity]</font>** Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
-</div>
 * `Paper` Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
 * `Activity` Invited to serve on Program Committee of _AAAI_ 2021
 * `Activity` Invited to serve on Program Committee of _EMNLP_ 2021
