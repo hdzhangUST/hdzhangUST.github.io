@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-> The fruit of righteousness in peace is sown for them  that make peace. ---<cite>John 3:18</cite>
+> Though I walk through the valley of the shadow of  death, I will fear no evil: for thou art with me; thy rod and thy staff, they comfort me. ---<cite>Psalms 23:4</cite>
 
 
 Teaching
