@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Haodi Zhang (张昊迪)
+Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/en/people?195315))
 ======
 **Assistant Professor**<br>
 **College of Computer Science and Software Engineering**<br>
