@@ -16,3 +16,5 @@ This course introduces the general principles and basic implementation methods o
 1. Syntactic parsing
 1. Semantic analysis
 1. Intermediate code generation 
+
+Videos of the lectures are available on [Bilibili](https://space.bilibili.com/61190440/channel/detail?cid=115820)
