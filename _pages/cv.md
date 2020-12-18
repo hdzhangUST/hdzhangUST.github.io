@@ -47,16 +47,17 @@ Grant
 
 Selected Honors and Rewards
 ------
-* 2018 Shenzhen 'Peacock' High-level Talent
-* 2019 Tencent 'Rhinoceros Birds' Open Fund Young Researcher Award
-* 2019 Best New Teacher Award, CSSE, Shenzhen University
-* 2019 Excellence Award in 'Torch' teaching program, Shenzhen University
+* 2020 Anual Excellence Award, Shenzhen University
+* 2019 Tencent 'Rhino-bird' Open-Funded Young Researcher Award
 * 2019 Best Class Award, CSSE, Shenzhen University
+* 2019 Excellence Award in 'Torch' teaching program, Shenzhen University
+* 2019 Best New Lecturer Award, CSSE, Shenzhen University
+* 2018 'Peacock' High-level Talent, Shenzhen City
 
 Professional Services
 ------
-* **TPC member for:** AAAI Conference on Artificial Intelligence (AAAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2015, International Conference on Principles of Knowledge Representation and Reasoning (KR) 2014.
-* **Reviewer for:** AAAI Conference on Artificial Intelligence (AAAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2019, International Joint Conference on Artificial Intelligence (IJCAI) 2018, International Joint Conference on Artificial Intelligence (IJCAI) 2016, AAAI Conference on Artificial Intelligence (AAAI) 2015, International Joint Conference on Artificial Intelligence (IJCAI) 2015, International Conference on Principles of Knowledge Representation and Reasoning (KR) 2014, AAAI Conference on Artificial Intelligence (AAAI) 2013, International Joint Conference on Artificial Intelligence (IJCAI) 2011, AAAI Conference on Artificial Intelligence (AAAI) 2010, IEEE Access.
+* **Program Committee Senior Member/Member for:** IJCAI 2021, AAAI 2021, ACL 2021, IJCAI 2020, AAAI 2020, EMNLP 2020, IJCAI 2019, AAAI 2019, IJCAI 2018, IJCAI 2015, AAAI 2014, KR 2014.
+* **Reviewer for:** IJCAI 2021, AAAI 2021, ACL 2021, IJCAI 2020, AAAI 2020, EMNLP 2020, IJCAI 2019, AAAI 2019, IJCAI 2018, IJCAI 2015, AAAI 2014, KR 2014, IEEE Access.
 
 Teaching
 ------
