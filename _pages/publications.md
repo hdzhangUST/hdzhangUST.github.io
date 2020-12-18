@@ -9,7 +9,7 @@ author_profile: true
 > Do not go gentle into that good night.<br>
 Rage, rage against the dying of the light. ---<cite>Dylan Thomas</cite>
 
-Research Topics
+Research Interests
 ------
 * Knowledge embedding in reinforcement learning for
   * Game playing
@@ -17,10 +17,11 @@ Research Topics
   * Communication policy learning
 * Interpretable AI models for
   * Diagnosis
+  * Dialog management
 * Intelligence measurements
 * Crowdingsourcing for
   * Uncertain data cleaning
-  * Best path selection
+  * Path selection
 
 Publications
 ------
@@ -38,7 +39,7 @@ Research Group Members
   * Zhenhao Chen, MPhil student, 2019.09~
   * Zhichao Zeng, MPhil student, 2019.09~
   * Chenyu Xu, MPhil student, 2020.09~
-  * Wenqian Huang, MPhil student, 2020.09~
+  * Wenxi Huang, MPhil student, 2020.09~
 
 <div style='display: none'>
 {% if author.googlescholar %}
