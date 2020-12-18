@@ -17,7 +17,7 @@ Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/cn/people?195315))
 **Assistant Professor**<br>
 **College of Computer Science and Software Engineering**<br>
 **Shenzhen University**
-**Email: [zhanghd.ustc@gmail.com](mailto:zhanghd.ustc@gmail.com)
+**Email: [zhanghd.ustc@gmail.com](mailto:zhanghd.ustc@gmail.com)**
 
 
 
