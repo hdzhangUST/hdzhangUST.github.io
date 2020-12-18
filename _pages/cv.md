@@ -21,6 +21,8 @@ Work experience
 ------
 * 2017-now: Assistant Professor
   * CSSE, Shenzhen University, China
+* 2019-2020: Guest Lecturer
+  * CSE, Hong Kong University of Science and Technology
 * 2016-2017: Postdoctoral Research Fellow
   * IELM, Hong Kong University of Science and Technology
   * Host: Professor Xiangtong Qi
