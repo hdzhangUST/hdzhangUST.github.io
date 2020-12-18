@@ -34,13 +34,13 @@ Recent News
 * `SERVICE` Invited to serve as a Senior Program Committee member of _IJCAI_ 2021
 * `SERVICE` Invited to serve on Program Committee of _ACL/IJCNLP_ 2021
 * `PAPER` Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
-* `Service` Invited to serve on Program Committee of _AAAI_ 2021
-* `Service` Invited to serve on Program Committee of _EMNLP_ 2021
-* `Service` Invited to serve on Program Committee of _NeurIPS_ 2021
-* `Paper` Our paper on deep learning in game playing is accepted by _**AAAI**_ 2020
-* `Service` Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
-* `Paper` Our paper on IQ tests for machine intelligence is accepted by _**IJCAI**_ 2019
-* `Service` Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
+* `SERVICE` Invited to serve on Program Committee of _AAAI_ 2021
+* `SERVICE` Invited to serve on Program Committee of _EMNLP_ 2021
+* `SERVICE` Invited to serve on Program Committee of _NeurIPS_ 2021
+* `PAPER` Our paper on deep learning in game playing is accepted by _**AAAI**_ 2020
+* `SERVICE` Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
+* `PAPER` Our paper on IQ tests for machine intelligence is accepted by _**IJCAI**_ 2019
+* `SERVICE` Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
 
 Selected Honors and Rewards
 ------
