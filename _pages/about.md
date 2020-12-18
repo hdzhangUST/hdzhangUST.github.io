@@ -19,10 +19,6 @@ Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/cn/people?195315))
 **Shenzhen University**
 
 
-<div style='display: none'>
-> 于浩歌狂热之际中寒，于天上看见深渊，<br>
-于一切眼中看见无所有，于无所希望中得救。---<cite>鲁迅</cite>
-</div>
 
 I am currently an Assistant Professor in Computer Science and Software Engineering, Shenzhen University, China. 
 I received my Ph.D. in Computer Science from  of Hong Kong University of Science and Technology in 2016. Before that, I received my B.S. in Computer Science from University of Science and Technology of China in 2009.
@@ -33,6 +29,8 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `Activity` Invited to serve as a Senior Program Committee member of _IJCAI_ 2021
+* `Activity` Invited to serve on Program Committee of _ACL/IJCNLP_ 2021
 * `Paper` Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
 * `Activity` Invited to serve on Program Committee of _AAAI_ 2021
 * `Activity` Invited to serve on Program Committee of _EMNLP_ 2021
