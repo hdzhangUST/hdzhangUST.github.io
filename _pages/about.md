@@ -30,8 +30,8 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `Award` Received the Outstanding Teacher Award of Shenzhen University, 2021
-* `Award` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI 2021_
+* `AWARD` Received the Outstanding Teacher Award of Shenzhen University, 2021
+* `AWARD` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI 2021_
 * `PAPER` Our paper on Adversarial Driving Style Representation Learning is accepted by _**DASFAA**_
 * `TALK` Invited to give a talk entitled "_Leveraging Human Intelligence in Machine Learning for NLP_" on the _1st Macau Symposium on Linguistics_, Macau University, Dec. 13, 2021
 * `SERVICE` Invited to serve as a Senior Program Committee member of _IJCAI_ 2021
