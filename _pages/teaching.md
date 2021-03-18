@@ -16,6 +16,7 @@ Teaching
 `2020 Sep.` Natural Language Processing, SZU<br>
 `2020 Sep.` Discrete Mathematics, SZU<br>
 `2020 Feb.` Natural Language Processing, HKUST<br>
+`2019 Sep.` Discrete Mathematics, SZU<br>
 `2019 Feb.` Compilers, SZU<br>
 `2018 Sep.` Discrete Mathematics, SZU<br>
 `2018 Feb.` Programming Languages, SZU<br>

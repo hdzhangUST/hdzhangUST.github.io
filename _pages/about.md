@@ -30,6 +30,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `Award` Received the Outstanding Teacher Award of Shenzhen University, 2021
 * `Award` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI 2021_
 * `PAPER` Our paper on Adversarial Driving Style Representation Learning is accepted by _**DASFAA**_
 * `TALK` Invited to give a talk entitled "_Leveraging Human Intelligence in Machine Learning for NLP_" on the _1st Macau Symposium on Linguistics_, Macau University, Dec. 13, 2021
@@ -46,11 +47,12 @@ Recent News
 
 Selected Honors and Rewards
 ------
+* 2021 Outstanding Teacher Award, Shenzhen University
 * 2020 Anual Excellence Award, Shenzhen University
 * 2019 Tencent 'Rhino-bird' Open-Funded Young Researcher Award
 * 2019 Best Class Award, CSSE, Shenzhen University
 * 2019 Excellence Award in 'Torch' teaching program, Shenzhen University
-* 2019 Best New Lecturer Award, CSSE, Shenzhen University
+* 2019 Best New Teacher Award, CSSE, Shenzhen University
 * 2018 'Peacock' High-level Talent, Shenzhen City
 
 
@@ -65,7 +67,7 @@ Grant
 * PI, _Tencent 'Rhinoceros Birds' - Scientific Research Foundation_ for Young Faculty of Shenzhen University, RMB 5,000, 2018-2019 (腾讯“犀牛鸟”-深圳大学青年教师科研基金项目，主持)
 * PI, _High-level University Construction Fund_ of Shenzhen University, RMB 140,000, 2019-2020 (深圳市高水平大学建设项目，主持)
 * PI, _Natural Science Foundation_ of Shenzhen University, RMB 60,000, 2018-2019 (深圳大学新引进教师科研启动项目，主持)
-* Co-PI, _Joint Funds of National Natural Science Foundation of China (NSFC)_, Key Project, RMB 2,600,000, 2021-2024 (国家自然科学基金广东联合重点项目，参与)
+* Co-I, _Joint Funds of National Natural Science Foundation of China (NSFC)_, Key Project, RMB 2,600,000, 2021-2024 (国家自然科学基金广东联合重点项目，参与)
 
 
 

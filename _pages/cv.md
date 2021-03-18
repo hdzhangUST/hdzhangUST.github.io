@@ -25,7 +25,7 @@ Work experience
   * CSE, Hong Kong University of Science and Technology
 * 2016-2017: Postdoctoral Research Fellow
   * IELM, Hong Kong University of Science and Technology
-  * Host: Professor Xiangtong Qi
+  * Host: Professor [Xiangtong Qi](https://seng.ust.hk/about/people/faculty/xiangtong-qi)
 
 Publications
 ------
@@ -36,6 +36,16 @@ Full list of my publications is available on [DBLP](https://dblp.org/pid/165/332
   {% endfor %}</ul>
 </div>
   
+Selected Honors and Rewards
+------
+* 2021 Outstanding Teacher Award, Shenzhen University
+* 2020 Anual Excellence Award, Shenzhen University
+* 2019 Tencent 'Rhino-bird' Open-Funded Young Researcher Award
+* 2019 Best Class Award, CSSE, Shenzhen University
+* 2019 Excellence Award in 'Torch' teaching program, Shenzhen University
+* 2019 Best New Tearcher Award, CSSE, Shenzhen University
+* 2018 'Peacock' High-level Talent, Shenzhen City
+
 Grant
 ------
 * PI, _National Natural Science Foundation of China (NSFC)_, RMB 250,000, 2019-2021 (国家自然科学基金青年项目，主持)
@@ -44,15 +54,6 @@ Grant
 * PI, _High-level University Construction Fund_ of Shenzhen University, RMB 140,000, 2019-2020 (深圳市高水平大学建设项目，主持)
 * PI, _Natural Science Foundation_ of Shenzhen University, RMB 60,000, 2018-2019 (深圳大学新引进教师科研启动项目，主持)
 * Co-PI, _Joint Funds of National Natural Science Foundation of China (NSFC)_, Key Project, RMB 2,600,000, 2021-2024 (国家自然科学基金广东联合重点项目，参与)
-
-Selected Honors and Rewards
-------
-* 2020 Anual Excellence Award, Shenzhen University
-* 2019 Tencent 'Rhino-bird' Open-Funded Young Researcher Award
-* 2019 Best Class Award, CSSE, Shenzhen University
-* 2019 Excellence Award in 'Torch' teaching program, Shenzhen University
-* 2019 Best New Lecturer Award, CSSE, Shenzhen University
-* 2018 'Peacock' High-level Talent, Shenzhen City
 
 Professional Services
 ------
