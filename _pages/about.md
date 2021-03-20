@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<link rel="shortcut icon" type="image/png" href="{{ site.favicon }}">
+
 
 > Though I walk through the valley of the shadow of  death, I will fear no evil: for thou art with me; thy rod and thy staff, they comfort me. ---<cite>Psalms 23:4</cite>
 

@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Haodi Zhang"
 title_separator          : "-"
+favicon                  : 'images/site-logo.png'
 name                     : &name "Haodi Zhang"
 description              : &description "personal description"
 url                      : https://hdzhangUST.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
