@@ -12,7 +12,7 @@ redirect_from:
 > Though I walk through the valley of the shadow of  death, I will fear no evil: for thou art with me; thy rod and thy staff, they comfort me. ---<cite>Psalms 23:4</cite>
 
 
-Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/cn/people?195315))
+Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/cn/people5ef2.html?195315))
 ======
 **Assistant Professor**<br>
 **[College of Computer Science and Software Engineering](http://csse.szu.edu.cn/)**<br>
@@ -50,7 +50,7 @@ Selected Honors and Rewards
 * 2021 Outstanding Teacher Award, Shenzhen University
 * 2020 Anual Excellence Award, Shenzhen University
 * 2019 Tencent 'Rhino-bird' Open-Funded Young Researcher Award
-* 2019 Best Class Award, CSSE, Shenzhen University
+* 2019 Best Class Award for _Discrete Mathematics_, CSSE, Shenzhen University
 * 2019 Excellence Award in 'Torch' teaching program, Shenzhen University
 * 2019 Best New Teacher Award, CSSE, Shenzhen University
 * 2018 'Peacock' High-level Talent, Shenzhen City
