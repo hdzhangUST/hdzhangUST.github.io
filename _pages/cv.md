@@ -39,7 +39,7 @@ Full list of my publications is available on [DBLP](https://dblp.org/pid/165/332
 Selected Honors and Rewards
 ------
 * 2021 Outstanding Teacher Award, Shenzhen University
-* 2020 Anual Excellence Award, Shenzhen University
+* 2020 Annual Excellence Award, Shenzhen University
 * 2019 Tencent 'Rhino-bird' Open-Funded Young Researcher Award
 * 2019 Best Class Award for _Discrete Mathematics_, CSSE, Shenzhen University
 * 2019 Excellence Award in 'Torch' teaching program, Shenzhen University
