@@ -30,7 +30,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `PAPER` Our paper on Crowd-aided best path selection is accepted by _**TKDE**_
+* `PAPER` Our paper on crowd-aided best path selection is accepted by _**TKDE**_
 * `AWARD` Received the Outstanding Teacher Award of Shenzhen University, 2021
 * `AWARD` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI 2021_
 * `PAPER` Our paper on adversarial driving style representation learning is accepted by _**DASFAA**_
