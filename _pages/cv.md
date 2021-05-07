@@ -52,7 +52,7 @@ Grant
 * PI, _National Natural Science Foundation of China (NSFC)_, 2019-2021 (国家自然科学基金青年项目，主持)
 * PI, _Finance Commission of Shenzhen Municipality_, 2019-2021 (深圳市“孔雀计划”海外高层次人才科研基金，主持)
 * PI, _Tencent 'Rhinoceros Birds' - Scientific Research Foundation_ for Young Faculty of Shenzhen University, 2018-2019 (腾讯“犀牛鸟”-深圳大学青年教师科研基金项目，主持)
-* PI, _High-level University Construction Fund_ of Shenzhen University, 2019-2020 (深圳市高水平大学建设项目，主持)
+* PI, _High-level University Construction Fund_ of Shenzhen University, 2020-2022 (深圳市高水平大学建设项目，主持)
 * PI, _Natural Science Foundation_ of Shenzhen University, 2018-2019 (深圳大学新引进教师科研启动项目，主持)
 * Co-PI, _Joint Funds of National Natural Science Foundation of China (NSFC)_, Key Project, 2021-2024 (国家自然科学基金广东联合重点项目，参与)
 
