@@ -47,7 +47,7 @@ Recent News
 Selected Honors and Rewards
 ------
 * 2021 Outstanding Teacher Award, Shenzhen University
-* 2021 Winners of two tracks in the First Machine Automated IQ (MAIQ) Test Challenge at IJCAI 
+* 2021 Winners of two tracks in the 1st Machine Automated IQ Test (MAIQ) Competition at IJCAI 
 * 2020 Annual Excellence Award, Shenzhen University
 * 2019 Tencent 'Rhino-bird' Open-Funded Young Researcher Award
 * 2019 Best Class Award for _Discrete Mathematics_, CSSE, Shenzhen University
