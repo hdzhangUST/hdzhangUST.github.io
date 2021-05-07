@@ -30,7 +30,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `PAPER` Our paper on crowd-aided best path selection is accepted by _**TKDE**_
+* `PAPER` Our paper on crowd-aided best path selection is accepted by _**TKDE**_ 
 * `AWARD` Received the Outstanding Teacher Award of Shenzhen University, 2021
 * `AWARD` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI 2021_
 * `PAPER` Our paper on adversarial driving style representation learning is accepted by _**DASFAA**_
@@ -38,9 +38,7 @@ Recent News
 * `SERVICE` Invited to serve as a Senior Program Committee member of _IJCAI_ 2021
 * `SERVICE` Invited to serve on Program Committee of _ACL/IJCNLP_ 2021
 * `PAPER` Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
-* `SERVICE` Invited to serve on Program Committee of _AAAI_ 2021
-* `SERVICE` Invited to serve on Program Committee of _EMNLP_ 2021
-* `SERVICE` Invited to serve on Program Committee of _NeurIPS_ 2021
+* `SERVICE` Invited to serve on Program Committee of _AAAI_ 2021, _EMNLP_ 2021, and _NeurIPS_ 2021
 * `PAPER` Our paper on deep learning in game playing is accepted by _**AAAI**_ 2020
 * `SERVICE` Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
 * `PAPER` Our paper on IQ tests for machine intelligence is accepted by _**IJCAI**_ 2019
