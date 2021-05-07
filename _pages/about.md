@@ -30,16 +30,16 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* <font color=Blue>2021.05</font>  `PAPER` Our paper on crowd-aided best path selection is accepted by _**TKDE**_ 
+* `<font color=Blue>PAPER</font>`   Our paper on crowd-aided best path selection is accepted by _**TKDE**_ `2021.05`
 * <font color=Blue>2021.04</font>  `AWARD` Received the Outstanding Teacher Award of Shenzhen University, 2021
-* <font color=Blue>2021.01</font> `AWARD` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI_
-* `PAPER` Our paper on adversarial driving style representation learning is accepted by _**DASFAA**_
-* `TALK` Invited to give a talk entitled "_Leveraging Human Intelligence in Machine Learning for NLP_" on the _1st Macau Symposium on Linguistics_, Macau University, Dec. 13, 2021
-* `SERVICE` Invited to serve as a Senior Program Committee member of _IJCAI_ 2021
-* `SERVICE` Invited to serve on Program Committee of _ACL/IJCNLP_ 2021
-* `PAPER` Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
-* `SERVICE` Invited to serve on Program Committee of _AAAI_ 2021, _EMNLP_ 2021, and _NeurIPS_ 2021
-* `PAPER` Our paper on deep learning in game playing is accepted by _**AAAI**_ 2020
+* `AWARD` __2021.01__ We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI_
+* <font color=Blue>2021.01</font> `PAPER` Our paper on adversarial driving style representation learning is accepted by _**DASFAA**_
+* <font color=Blue>2020.12</font> `TALK` Invited to give a talk entitled "_Leveraging Human Intelligence in Machine Learning for NLP_" on the _1st Macau Symposium on Linguistics_, Macau University, Dec. 13, 2020
+* <font color=Blue>2020.11</font> `SERVICE` Invited to serve as a Senior Program Committee member of _IJCAI_ 2021
+* <font color=Blue>2020.11</font> `SERVICE` Invited to serve on Program Committee of _ACL/IJCNLP_ 2021
+* <font color=Blue>2020.09</font> `PAPER` Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
+* <font color=Blue>2020.08</font> `SERVICE` Invited to serve on Program Committee of _AAAI_ 2021, _EMNLP_ 2021, and _NeurIPS_ 2021
+* `<font color=Blue>2019.10</font>` `PAPER` Our paper on deep learning in game playing is accepted by _**AAAI**_ 2020
 * `SERVICE` Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
 * `PAPER` Our paper on IQ tests for machine intelligence is accepted by _**IJCAI**_ 2019
 * `SERVICE` Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
