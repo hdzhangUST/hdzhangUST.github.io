@@ -16,8 +16,6 @@ Contact
 
 E-mail
 ------
-[hdzhang at szu.edu.cn](mailto:hdzhang@szu.edu.cn) <br>
-or <br> 
 [zhanghd.ustc at gmail.com](mailto:zhanghd.ustc@gmail.com)
 
 Office

@@ -22,7 +22,7 @@ Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/cn/people5ef2.html?195315))
 
 
 I am currently an Assistant Professor in Computer Science and Software Engineering, Shenzhen University, China. 
-I received my Ph.D. in Computer Science from  of Hong Kong University of Science and Technology in 2016. Before that, I received my B.S. in Computer Science from University of Science and Technology of China in 2009.
+I received my Ph.D. degree in Computer Science from  CSE of Hong Kong University of Science and Technology in 2016. Before that, I received my B.S. in Computer Science from University of Science and Technology of China in 2009.
 
 Research Interests
 ------
@@ -47,6 +47,7 @@ Recent News
 Selected Honors and Rewards
 ------
 * 2021 Outstanding Teacher Award, Shenzhen University
+* 2021 The first places of two tracks in the First Machine Automated IQ (MAIQ) Test Challenge at IJCAI 2021
 * 2020 Annual Excellence Award, Shenzhen University
 * 2019 Tencent 'Rhino-bird' Open-Funded Young Researcher Award
 * 2019 Best Class Award for _Discrete Mathematics_, CSSE, Shenzhen University
