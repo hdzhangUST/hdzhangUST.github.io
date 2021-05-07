@@ -30,18 +30,18 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `2021.05` `PAPER` Our paper on crowd-aided best path selection is accepted by _**TKDE**_ 
+* `2021.05` `PAPER` Our paper on crowd-aided best path selection has been accepted by _**TKDE**_ 
 * `2021.04` `AWARD` Received the Outstanding Teacher Award of Shenzhen University
-* `2021.01` `AWARD` Won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI_
-* `2021.01` `PAPER` Our paper on adversarial driving style representation learning is accepted by _**DASFAA**_
+* `2021.01` `AWARD` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI_
+* `2021.01` `PAPER` Our paper on adversarial driving style representation learning has been accepted by _**DASFAA**_
 * `2020.12` `TALK` Invited to give a talk entitled "_Leveraging Human Intelligence in Machine Learning for NLP_" on the _1st Macau Symposium on Linguistics_, Macau University, Dec. 13, 2020
 * `2020.11` `SERVICE` Invited to serve as a Senior Program Committee member of _IJCAI_ 2021
 * `2020.11` `SERVICE` Invited to serve on Program Committee of _ACL/IJCNLP_ 2021
-* `2020.09` `PAPER` Our paper on cleaning uncertainty with crowdingsourcing is accepted by _**TKDE**_
+* `2020.09` `PAPER` Our paper on cleaning uncertainty with crowdingsourcing has been accepted by _**TKDE**_
 * `2020.08` `SERVICE` Invited to serve on Program Committee of _AAAI_ 2021, _EMNLP_ 2021, and _NeurIPS_ 2021
-* `2019.10` `PAPER` Our paper on deep learning in game playing is accepted by _**AAAI**_ 2020
+* `2019.10` `PAPER` Our paper on deep learning in game playing has been accepted by _**AAAI**_ 2020
 * `2019.08` `SERVICE` Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
-* `2018.11` `PAPER` Our paper on IQ tests for machine intelligence is accepted by _**IJCAI**_ 2019
+* `2018.11` `PAPER` Our paper on IQ tests for machine intelligence has been accepted by _**IJCAI**_ 2019
 * `2018.10` `SERVICE` Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
 
 Selected Honors and Rewards
