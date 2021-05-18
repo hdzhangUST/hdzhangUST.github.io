@@ -30,7 +30,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `2021.05` `PAPER` Our [paper](https://ieeexplore.ieee.org/abstract/document/9428574/authors#authors) on crowd-aided best path selection has been accepted by _**TKDE**_ 
+* `2021.05` `PAPER` Our [paper](https://ieeexplore.ieee.org/abstract/document/9428574) on crowd-aided best path selection has been accepted by _**TKDE**_ 
 * `2021.04` `AWARD` Received the Outstanding Teacher Award of Shenzhen University
 * `2021.01` `AWARD` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI_
 * `2021.01` `PAPER` Our [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_33) on adversarial driving style representation learning has been accepted by _**DASFAA**_
