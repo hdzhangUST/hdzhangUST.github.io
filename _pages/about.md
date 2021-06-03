@@ -30,12 +30,13 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `2021.06` `SERVICE` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)
 * `2021.05` `PAPER` Our [paper](https://ieeexplore.ieee.org/abstract/document/9428574) on crowd-aided best path selection has been accepted by _**TKDE**_ 
 * `2021.04` `AWARD` Received the Outstanding Teacher Award of Shenzhen University
 * `2021.01` `AWARD` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI_
 * `2021.01` `PAPER` Our [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_33) on adversarial driving style representation learning has been accepted by _**DASFAA**_
 * `2020.12` `TALK` Invited to give a talk entitled "_Leveraging Human Intelligence in Machine Learning for NLP_" on the _1st Macau Symposium on Linguistics_, Macau University, Dec. 13, 2020
-* `2020.11` `SERVICE` Invited to serve as a Senior Program Committee member of _IJCAI_ 2021
+* `2020.11` `SERVICE` Invited to serve as a Senior Program Committee member for _IJCAI_ 2021
 * `2020.09` `PAPER` Our [paper](https://ieeexplore.ieee.org/document/9210063) on cleaning uncertainty with crowdingsourcing has been accepted by _**TKDE**_
 * `2020.08-11` `SERVICE` Invited to serve on Program Committee of _AAAI_ 2021, _EMNLP_ 2021, _NeurIPS_ 2021, and _ACL/IJCNLP_ 2021
 * `2019.10` `PAPER` Our paper on deep learning in game playing has been accepted by _**AAAI**_ 2020
