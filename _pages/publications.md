@@ -25,7 +25,8 @@ Research Interests
 
 Selected Publications
 ------
-* Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen
+* Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen: Cleaning Uncertain Data with Crowdsourcing - a General Model with Diverse Accuracy Rates, TKDE, 2021
+
 Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
 
 Grant
