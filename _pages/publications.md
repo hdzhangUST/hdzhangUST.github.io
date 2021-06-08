@@ -25,7 +25,7 @@ Research Interests
 
 Selected Publications
 ------
-* Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#</sup>***, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (early acceess), 2021
+* Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#</sup>* **, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (early acceess), 2021
 * Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen, Cleaning Uncertain Data with Crowdsourcing - a General Model with Diverse Accuracy Rates, in _IEEE Transactions on Knowledge and Data Engineering_ (early acceess), 2021
 * Zhidan Liu, Junhong Zheng, Zengyang Gong, **Haodi Zhang<sup>*</sup>** and Kaishun Wu<sup>*</sup>, Exploiting Multi-source Data for Adversarial Driving Style Representation Learning, in _Proceedings of 26th International Conference of DASFAA_, 2021:491-508
 * Zihang Gao, Fangzhen Lin, Yi Zhou, Hao Zhang, Kaishun Wu, **Haodi Zhang<sup>*</sup>**, Embedding High-Level Knowledge into DQNs to Learn Faster and More Safely, in _Proceedings of AAAI (short paper)_ 2020:13608-13609
@@ -50,16 +50,17 @@ Grant
 Research Group Members
 ------
 * Current students
-  * Weiteng Xie, MPhil student, 2018.09~
-  * Di Zhan, MPhil student, 2018.09~
-  * Zihang Gao, MPhil student, 2018.09~
-  * Hao Ren, MPhil student, 2018.09~
   * Qifan Lin, MPhil student, 2019.09~
   * Zhao Chen, MPhil student, 2019.09~
   * Zhenhao Chen, MPhil student, 2019.09~
   * Zhichao Zeng, MPhil student, 2019.09~
   * Chenyu Xu, MPhil student, 2020.09~
   * Wenxi Huang, MPhil student, 2020.09~
+* Graduated students
+  * Weiteng Xie, MPhil student, 2018.09~2021.06, Huawei 
+  * Di Zhan, MPhil student, 2018.09~2021.06, Huawei 
+  * Zihang Gao, MPhil student, 2018.09~2021.06, Guangdong second provincal general hospital
+  * Hao Ren, MPhil student, 2018.09~2021.06, Guangdong second provincal general hospital
 
 <div style='display: none'>
 {% if author.googlescholar %}
