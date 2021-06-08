@@ -23,8 +23,9 @@ Research Interests
   * Uncertain data cleaning
   * Path selection
 
-Publications
+Selected Publications
 ------
+* Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen
 Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
 
 Grant
