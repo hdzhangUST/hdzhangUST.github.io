@@ -25,8 +25,8 @@ Research Interests
 
 Selected Publications
 ------
-* Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, early acceess), 2021
-* Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen, Cleaning Uncertain Data with Crowdsourcing - a General Model with Diverse Accuracy Rates, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, early acceess), 2021
+* Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, early access), 2021
+* Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen, Cleaning Uncertain Data with Crowdsourcing - a General Model with Diverse Accuracy Rates, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, early access), 2021
 * Zhidan Liu, Junhong Zheng, Zengyang Gong, **Haodi Zhang<sup>*</sup>** and Kaishun Wu<sup>*</sup>, Exploiting Multi-source Data for Adversarial Driving Style Representation Learning, in _Proceedings of 26th International Conference of DASFAA_, 2021:491-508
 * Zihang Gao, Fangzhen Lin, Yi Zhou, Hao Zhang, Kaishun Wu, **Haodi Zhang<sup>*</sup>**, Embedding High-Level Knowledge into DQNs to Learn Faster and More Safely, in _Proceedings of AAAI (short paper)_ 2020:13608-13609
 * Yusen Liu, Fangyuan He, **Haodi Zhang**, Guozheng Rao, Zhiyong Feng, Yi Zhou, How Well Do Machines Perform on IQ tests: a Comparison Study on a Large-Scale Dataset, in _Proceedings of IJCAI_ 2019:6110-6116
