@@ -47,6 +47,7 @@ Grant
 * PI, _Natural Science Foundation_ of Shenzhen University, RMB 60,000, 2018-2019 (深圳大学新引进教师科研启动项目，主持)
 * Co-PI, _Joint Funds of National Natural Science Foundation of China (NSFC)_, Key Project, RMB 2,600,000, 2021-2024 (国家自然科学基金广东联合重点项目，参与)
 
+<div style='display: none'>
 Research Group Members
 ------
 * Current students
@@ -62,7 +63,7 @@ Research Group Members
   * Zihang Gao, MPhil student, 2018.09~2021.06, Guangdong second provincal general hospital
   * Hao Ren, MPhil student, 2018.09~2021.06, Guangdong second provincal general hospital
 
-<div style='display: none'>
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
