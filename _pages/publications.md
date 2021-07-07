@@ -35,8 +35,6 @@ Research Interests
 * **Haodi Zhang**, Fangzhen Lin, Mapping Action Language BC to Logic Programs: A Characterization by Postulates, in _Proceedings of AAAI_ 2016:1116-1123
 * **Haodi Zhang**, Fangzhen Lin, Characterizing Causal Action Theories and Their Implementations in Answer Set Programming: Action Languages B, C, and Beyond, in _Proceedings of IJCAI_ 2015:3285-3291
 
-<br>
-Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
 
 Grant
 ------

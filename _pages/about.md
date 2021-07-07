@@ -56,7 +56,9 @@ Selected Honors and Rewards
 * 2018 'Peacock' High-level Talent, Shenzhen City
 
 
-[Publications](publications#publist)
+Publications
+-----
+See [here](publications#publist)
 
 
 Grant
