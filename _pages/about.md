@@ -56,9 +56,8 @@ Selected Honors and Rewards
 * 2018 'Peacock' High-level Talent, Shenzhen City
 
 
-Publications
-------
-Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
+[Publications](./publications.md)
+
 
 Grant
 ------
