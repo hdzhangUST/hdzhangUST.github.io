@@ -57,8 +57,9 @@ Selected Honors and Rewards
 
 
 Publications
-------
-Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
+-----
+See [here](publications#publist)
+
 
 Grant
 ------
