@@ -29,8 +29,10 @@ Work experience
 
 Publications
 ------
-Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
+See [here](publications#publist)
+
 <div style='display: none'>
+Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -58,9 +60,8 @@ Grant
 
 Professional Services
 ------
-* **Senior TPC/TPC Member** for IJCAI 2022, ICRL 2022, IJCAI 2021, AAAI 2021, ACL 2021, IJCAI 2020, AAAI 2020, EMNLP 2020, IJCAI 2019, AAAI 2019, IJCAI 2018, IJCAI 2015, AAAI 2014, KR 2014.
-* **Locla Chair** for EAI ICECI 2021.
-* **Reviewer** for IJCAI 2021, AAAI 2021, ACL 2021, IJCAI 2020, AAAI 2020, EMNLP 2020, IJCAI 2019, AAAI 2019, IJCAI 2018, IJCAI 2015, AAAI 2014, KR 2014, IEEE Access.
+* **Local Chair** for EAI ICECI 2021.
+* **(Senior) PC Member** for ICLR 2022, IJCAI 2022, NeurIPS 2021, IJCAI 2021, AAAI 2021, ACL 2021, IJCAI 2020, AAAI 2020, EMNLP 2020, IJCAI 2019, AAAI 2019, IJCAI 2018, IJCAI 2015, AAAI 2014, KR 2012, etc.
 
 Teaching
 ------
