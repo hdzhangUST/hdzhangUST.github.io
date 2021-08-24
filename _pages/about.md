@@ -59,7 +59,7 @@ Selected Honors and Rewards
 
 Publications
 -----
-See [here](publications#publist)
+See [here](https://hdzhangust.github.io/publications#publist)
 
 
 Grant
