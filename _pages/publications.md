@@ -25,6 +25,7 @@ Research Interests
 
 <span id='publist'>Selected Publications</span>
 ------
+* Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Qifan Li, Kaishun Wu, Member, IEEE, Di Jiang, Yuanfeng Song, Peiguang Lin, and Lei Chen, Where Burstiness-Aware Web Search Analysis on Different Levels of Evidences, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, accepted), 2021
 * Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, early access), 2021
 * Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen, Cleaning Uncertain Data with Crowdsourcing - a General Model with Diverse Accuracy Rates, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, early access), 2021
 * Zhidan Liu, Junhong Zheng, Zengyang Gong, **Haodi Zhang** and Kaishun Wu, Exploiting Multi-source Data for Adversarial Driving Style Representation Learning, in _Proceedings of 26th International Conference of DASFAA_, 2021:491-508

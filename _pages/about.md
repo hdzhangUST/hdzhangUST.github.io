@@ -30,7 +30,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `2021.08` `PAPER` Our [paper] on burstness-aware web search analysis has been accepted by _**TKDE**_ 
+* `2021.08` `PAPER` Our paper on burstness-aware web search analysis has been accepted by _**TKDE**_ 
 * `2021.07` `SERVICE` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
 * `2021.06` `SERVICE` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)
 * `2021.05` `PAPER` Our [paper](https://ieeexplore.ieee.org/abstract/document/9428574) on crowd-aided best path selection has been accepted by _**TKDE**_ 
