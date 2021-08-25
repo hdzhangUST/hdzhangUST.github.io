@@ -29,7 +29,7 @@ Work experience
 
 Publications
 ------
-See [here](publications#publist)
+See [here](https://hdzhangust.github.io/publications#publist)
 
 <div style='display: none'>
 Full list of my publications is available on [DBLP](https://dblp.org/pid/165/3321.html)
