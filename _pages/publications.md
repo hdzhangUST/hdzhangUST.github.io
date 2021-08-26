@@ -11,17 +11,12 @@ Rage, rage against the dying of the light. ---<cite>Dylan Thomas</cite>
 
 Research Interests
 ------
-* Knowledge embedding in reinforcement learning for
-  * Game playing
-  * Dialog policy learning
-  * Communication policy learning
+* Knowledge representation and reasoning in machine learning
 * Interpretable AI models for
   * Diagnosis
   * Dialog management
 * Intelligence measurements
-* Crowdingsourcing for
-  * Uncertain data cleaning
-  * Path selection
+* Crowdingsourcing 
 
 <span id='publist'>Selected Publications</span>
 ------
