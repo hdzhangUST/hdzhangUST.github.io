@@ -12,10 +12,7 @@ Rage, rage against the dying of the light. ---<cite>Dylan Thomas</cite>
 Research Interests
 ------
 * Knowledge representation and reasoning in machine learning
-* Interpretable AI models for
-  * Diagnosis
-  * Dialog management
-* Intelligence measurements
+* Interpretable AI models for diagnosis, dialog management, etc.
 * Crowdingsourcing 
 
 <span id='publist'>Selected Publications</span>
