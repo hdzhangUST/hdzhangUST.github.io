@@ -8,7 +8,7 @@ date: 2019-02-01
 location: "Shenzhen, China"
 ---
 
-This course introduces the general principles and basic implementation methods of compiler construction of programming language, including the components of a compiler and the main functions of each part, the generation and recognition of language, normal grammar, state transition diagram, finite automata and the principle of lexical analysis program design for lexical analysis, etc.
+This course introduces the general principles and basic implementation methods of compiler construction of programming language, including the components of a compiler and the main functions of each part, the generation and recognition of language, normal grammar, state transition diagram, finite automata and the principle of lexical analysis program design for lexical analysis, etc. The lecture videos are available on [Bilibili](https://space.bilibili.com/61190440/channel/detail?cid=115820)
 
 1. Compiling systems
 1. High-level languages and grammar
@@ -17,4 +17,3 @@ This course introduces the general principles and basic implementation methods o
 1. Semantic analysis
 1. Intermediate code generation 
 
-Videos of the lectures are available on [Bilibili](https://space.bilibili.com/61190440/channel/detail?cid=115820)
