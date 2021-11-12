@@ -12,12 +12,12 @@ author_profile: true
 
 Teaching
 ======
-`2021 Sep.` Discrete Mathematics, SZU<br>
+`2021 Sep.` Discrete Mathematics, SZU [【Video】](https://space.bilibili.com/61190440/channel/seriesdetail?sid=414728&ctype=0) <br>
 `2020 Sep.` Natural Language Processing, SZU<br>
 `2020 Sep.` Discrete Mathematics, SZU<br>
 `2020 Feb.` Natural Language Processing, HKUST<br>
 `2019 Sep.` Discrete Mathematics, SZU<br>
-`2019 Feb.` Compilers, SZU<br>
+`2019 Feb.` Compilers, SZU [【Video】](https://space.bilibili.com/61190440/channel/detail?cid=115820) <br>
 `2018 Sep.` Discrete Mathematics, SZU<br>
 `2018 Feb.` Programming Languages, SZU<br>
 
