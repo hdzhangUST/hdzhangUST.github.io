@@ -12,7 +12,7 @@ author_profile: true
 
 Teaching
 ======
-
+`2021 Sep.` Discrete Mathematics, SZU<br>
 `2020 Sep.` Natural Language Processing, SZU<br>
 `2020 Sep.` Discrete Mathematics, SZU<br>
 `2020 Feb.` Natural Language Processing, HKUST<br>
