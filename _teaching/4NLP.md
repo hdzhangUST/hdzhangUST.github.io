@@ -5,7 +5,6 @@ type: "Undergraduate course"
 permalink: /teaching/4NLP
 venue: "Shenzhen University, CSSE"
 date: 2020-09-01
-onlineURL: " "
 location: "Shenzhen, China"
 ---
 

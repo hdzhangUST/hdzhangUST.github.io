@@ -5,7 +5,6 @@ type: "MS course"
 permalink: /teaching/5NLP
 venue: "HKUST, CSE"
 date: 2020-02-01
-onlineURL: " "
 location: "Hong Kong, China"
 ---
 

@@ -5,7 +5,6 @@ type: "Undergraduate course"
 permalink: /teaching/2compilers
 venue: "Shenzhen University, CSSE"
 date: 2019-02-01
-onlineURL: [Video](https://space.bilibili.com/61190440/channel/detail?cid=115820)
 location: "Shenzhen, China"
 ---
 
