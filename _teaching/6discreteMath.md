@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/6discreteMath
 venue: "Shenzhen University, CSSE"
 date: 2021-09-01
-onlineURL: "[Video](https://space.bilibili.com/61190440/channel/seriesdetail?sid=414728&ctype=0)"
+onlineURL: [Video](https://space.bilibili.com/61190440/channel/seriesdetail?sid=414728&ctype=0)
 location: "Shenzhen, China"
 ---
 
