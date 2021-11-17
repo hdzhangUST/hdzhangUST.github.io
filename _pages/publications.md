@@ -32,8 +32,8 @@ Research Interests
 
 Invited Talks
 ------
-;* Leveraging Human Intelligence in Machine Learning for NLP, on _The 2nd Macau Symposium on Linguistics_, Macau University, Dec. 4th, 2021
-;* Natural language processing: tasks, models and applications, on _The 2nd Interdisciplinary frontier Forum_, BNU Zhuhai, Nov. 24, 2021
+[//]:* Leveraging Human Intelligence in Machine Learning for NLP, on _The 2nd Macau Symposium on Linguistics_, Macau University, Dec. 4th, 2021
+* Natural language processing: tasks, models and applications, on _The 2nd Interdisciplinary frontier Forum_, BNU Zhuhai, Nov. 24, 2021
 * Leveraging Human Intelligence in Machine Learning for NLP, on _The 1st Macau Symposium on Linguistics_, Macau University, Dec. 4th, 2020
 
 Grant
