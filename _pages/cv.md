@@ -75,4 +75,4 @@ Teaching
 `2018 Feb.` Programming Languages, SZU<br>
 
 <br>
-My full [CV](files#CV_Haodi.pdf) 
+My full [CV](../files/CV_Haodi.pdf) 
