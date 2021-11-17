@@ -30,6 +30,11 @@ Research Interests
 1. **Haodi Zhang**, Fangzhen Lin, Mapping Action Language BC to Logic Programs: A Characterization by Postulates, in _Proceedings of AAAI_ 2016:1116-1123
 1. **Haodi Zhang**, Fangzhen Lin, Characterizing Causal Action Theories and Their Implementations in Answer Set Programming: Action Languages B, C, and Beyond, in _Proceedings of IJCAI_ 2015:3285-3291
 
+Invited Talks
+------
+;* Leveraging Human Intelligence in Machine Learning for NLP, on _The 2nd Macau Symposium on Linguistics_, Macau University, Dec. 4th, 2021
+;* Natural language processing: tasks, models and applications, on _The 2nd Interdisciplinary frontier Forum_, BNU Zhuhai, Nov. 24, 2021
+* Leveraging Human Intelligence in Machine Learning for NLP, on _The 1st Macau Symposium on Linguistics_, Macau University, Dec. 4th, 2020
 
 Grant
 ------
