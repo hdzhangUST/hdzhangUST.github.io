@@ -19,7 +19,8 @@ Research Interests
 ------
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Qifan Li, Kaishun Wu, Di Jiang, Yuanfeng Song, Peiguang Lin, and Lei Chen, Where Burstiness-Aware Web Search Analysis on Different Levels of Evidences, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
-[//]:1. Sheng Luo, **Haodi Zhang**, Qifan Li, Kaishun Wu, Knowledge-Assisted DRL for Energy Harvesting Based Multi-Access Wireless Communications, in _Proceedings of 23rd IEEE HPCC, 2021:_
+
+[//]:* Sheng Luo, **Haodi Zhang**, Qifan Li, Kaishun Wu, Knowledge-Assisted DRL for Energy Harvesting Based Multi-Access Wireless Communications, in _Proceedings of 23rd IEEE HPCC, 2021:_
 1. Zhidan Liu, Junhong Zheng, Zengyang Gong, **Haodi Zhang** and Kaishun Wu, Exploiting Multi-source Data for Adversarial Driving Style Representation Learning, in _Proceedings of 26th International Conference of DASFAA_, 2021:491-508
 1. Shan Wang<sup>*</sup>, Zhao Chen, **Haodi Zhang<sup>*</sup>**, Macau’s Vocabulary Growth in the Recent Ten Year (In Chinese), in _Proceedings of the 20th Chinese National Conference on Computational Linguistics_, 2021:350-360
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen, Cleaning Uncertain Data with Crowdsourcing - a General Model with Diverse Accuracy Rates, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, early access), 2020
@@ -34,7 +35,7 @@ Research Interests
 Invited Talks
 ------
 [//]:* Leveraging Human Intelligence in Machine Learning for NLP, on _The 2nd Macau Symposium on Linguistics_, Macau University, Dec. 4th, 2021
-* Natural language processing: tasks, models and applications, on _The 2nd Interdisciplinary frontier Forum_, BNU Zhuhai, Nov. 24, 2021
+* Natural language processing: tasks, models and applications, on _The 2nd Interdisciplinary Frontier Forum_, BNU Zhuhai, Nov. 24, 2021
 * Leveraging Human Intelligence in Machine Learning for NLP, on _The 1st Macau Symposium on Linguistics_, Macau University, Dec. 4th, 2020
 
 Grant
