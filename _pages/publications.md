@@ -19,9 +19,10 @@ Research Interests
 ------
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Qifan Li, Kaishun Wu, Di Jiang, Yuanfeng Song, Peiguang Lin, and Lei Chen, Where Burstiness-Aware Web Search Analysis on Different Levels of Evidences, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
-1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen, Cleaning Uncertain Data with Crowdsourcing - a General Model with Diverse Accuracy Rates, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, early access), 2021
+[//]:1. Sheng Luo, **Haodi Zhang**, Qifan Li, Kaishun Wu, Knowledge-Assisted DRL for Energy Harvesting Based Multi-Access Wireless Communications, in _Proceedings of 23rd IEEE HPCC, 2021:_
 1. Zhidan Liu, Junhong Zheng, Zengyang Gong, **Haodi Zhang** and Kaishun Wu, Exploiting Multi-source Data for Adversarial Driving Style Representation Learning, in _Proceedings of 26th International Conference of DASFAA_, 2021:491-508
 1. Shan Wang<sup>*</sup>, Zhao Chen, **Haodi Zhang<sup>*</sup>**, Macau’s Vocabulary Growth in the Recent Ten Year (In Chinese), in _Proceedings of the 20th Chinese National Conference on Computational Linguistics_, 2021:350-360
+1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen, Cleaning Uncertain Data with Crowdsourcing - a General Model with Diverse Accuracy Rates, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, early access), 2020
 1. Zihang Gao, Fangzhen Lin, Yi Zhou, Hao Zhang, Kaishun Wu, **Haodi Zhang<sup>*</sup>**, Embedding High-Level Knowledge into DQNs to Learn Faster and More Safely, in _Proceedings of AAAI (short paper)_ 2020:13608-13609
 1. Yusen Liu, Fangyuan He, **Haodi Zhang**, Guozheng Rao, Zhiyong Feng, Yi Zhou, How Well Do Machines Perform on IQ tests: a Comparison Study on a Large-Scale Dataset, in _Proceedings of IJCAI_ 2019:6110-6116
 1. Fangyuan He, Yi Zhou, **Haodi Zhang**, Zhiyong Feng: Dual-enhanced Word Representations Based on Knowledge Base, in ISWC (short paper) 2018.
@@ -38,6 +39,7 @@ Invited Talks
 
 Grant
 ------
+* PI, _GuangDong Basic and Applied Basic Research Foundation_, 2022-2024 (广东省自然科学基金面上项目，主持)
 * PI, _National Natural Science Foundation of China (NSFC)_, RMB 250,000, 2019-2021 (国家自然科学基金青年项目，主持)
 * PI, _Finance Commission of Shenzhen Municipality_, RMB 2,700,000, 2019-2021 (深圳市“孔雀计划”海外高层次人才科研基金，主持)
 * PI, _Tencent 'Rhinoceros Birds' - Scientific Research Foundation_ for Young Faculty of Shenzhen University, RMB 5,000, 2018-2019 (腾讯“犀牛鸟”-深圳大学青年教师科研基金项目，主持)
