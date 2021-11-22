@@ -19,7 +19,6 @@ Research Interests
 ------
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Qifan Li, Kaishun Wu, Di Jiang, Yuanfeng Song, Peiguang Lin, and Lei Chen, Where Burstiness-Aware Web Search Analysis on Different Levels of Evidences, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
-[//]:* Sheng Luo, **Haodi Zhang**, Qifan Li, Kaishun Wu, Knowledge-Assisted DRL for Energy Harvesting Based Multi-Access Wireless Communications, in _Proceedings of 23rd IEEE HPCC, 2021:_
 1. Zhidan Liu, Junhong Zheng, Zengyang Gong, **Haodi Zhang** and Kaishun Wu, Exploiting Multi-source Data for Adversarial Driving Style Representation Learning, in _Proceedings of 26th International Conference of DASFAA_, 2021:491-508
 1. Shan Wang<sup>*</sup>, Zhao Chen, **Haodi Zhang<sup>*</sup>**, Macau’s Vocabulary Growth in the Recent Ten Year (In Chinese), in _Proceedings of the 20th Chinese National Conference on Computational Linguistics_, 2021:350-360
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Qifan Li, Kaishun Wu, Di Jiang, Peiguang Lin and Lei Chen, Cleaning Uncertain Data with Crowdsourcing - a General Model with Diverse Accuracy Rates, in _IEEE Transactions on Knowledge and Data Engineering_ (TKDE, early access), 2020
@@ -30,6 +29,8 @@ Research Interests
 1. **Haodi Zhang**, Fangzhen Lin, Characterizing causal action theories and their implementations in answer set programming, in _Artificial Intelligence_ (AIJ) 248:1-8, 2017
 1. **Haodi Zhang**, Fangzhen Lin, Mapping Action Language BC to Logic Programs: A Characterization by Postulates, in _Proceedings of AAAI_ 2016:1116-1123
 1. **Haodi Zhang**, Fangzhen Lin, Characterizing Causal Action Theories and Their Implementations in Answer Set Programming: Action Languages B, C, and Beyond, in _Proceedings of IJCAI_ 2015:3285-3291
+
+[//]:* Sheng Luo, **Haodi Zhang**, Qifan Li, Kaishun Wu, Knowledge-Assisted DRL for Energy Harvesting Based Multi-Access Wireless Communications, in _Proceedings of 23rd IEEE HPCC, 2021:_
 
 Invited Talks
 ------
