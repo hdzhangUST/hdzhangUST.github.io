@@ -17,6 +17,7 @@ Research Interests
 
 <span id='publist'>Selected Publications</span>
 ------
+1. **Haodi Zhang**, Zhichao Zeng, Keting Lu, Kaishun Wu, Shiqi Zhang, Efficient Dialog Policy Learning by Reasoning with Contextual Knowledge, in _Proceeding of AAAI_ 2022 (Accepted)
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Qifan Li, Kaishun Wu, Di Jiang, Yuanfeng Song, Peiguang Lin, and Lei Chen, Where Burstiness-Aware Web Search Analysis on Different Levels of Evidences, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
 1. Zhidan Liu, Junhong Zheng, Zengyang Gong, **Haodi Zhang** and Kaishun Wu, Exploiting Multi-source Data for Adversarial Driving Style Representation Learning, in _Proceedings of 26th International Conference of DASFAA_, 2021:491-508
