@@ -18,7 +18,7 @@ Research Interests
 <span id='publist'>Selected Publications</span>
 ------
 1. **Haodi Zhang**, Zhichao Zeng, Keting Lu, Kaishun Wu and Shiqi Zhang, Efficient Dialog Policy Learning by Reasoning with Contextual Knowledge, in _Proceedings of AAAI_ 2022 (Accepted)
-1. **Haodi Zhang**, Zhenhao Chen, Junyang Chen, Yi Zhou, Defu Lian, Kaishun Wu and Fangzhen Lin, Dynamic Decision Making Framework Based on Explicit Knowledge Reasoning and Deep Reinforcement Learning (In Chinese). Journal of Software, 2022 (CCF-A, accepted)
+1. **Haodi Zhang**, Zhenhao Chen, Junyang Chen, Yi Zhou, Defu Lian, Kaishun Wu and Fangzhen Lin, Dynamic Decision Making Framework Based on Explicit Knowledge Reasoning and Deep Reinforcement Learning (In Chinese). Journal of Software, 2022 (Accepted)
 1. Sheng Luo, **Haodi Zhang**, Qifan Li and Kaishun Wu. Knowledge-Assisted DRL for Energy
 Harvesting Based Multi-Access Wireless Communications, in _Proceedings of IEEE HPCC_ 2022 (Accepted)
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Qifan Li, Kaishun Wu, Di Jiang, Yuanfeng Song, Peiguang Lin, and Lei Chen, Burstiness-Aware Web Search Analysis on Different Levels of Evidences, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
