@@ -40,6 +40,7 @@ Full list of my publications is available on [DBLP](https://dblp.org/pid/165/332
   
 Selected Honors and Rewards
 ------
+* 2022 The Second Prize in Guangdong Teaching Innovation Contest (Shenzhen University)
 * 2021 Outstanding Teacher Award, Shenzhen University
 * 2021 Winners of two tracks in the 1st Machine Automated IQ Test (MAIQ) Competition at IJCAI  
 * 2020 Annual Excellence Award, Shenzhen University
