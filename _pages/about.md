@@ -30,6 +30,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `2022.1` `AWARD` Received the Second Prize in Guangdong Teaching Innovation Contest (Shenzhen University) 
 * `2021.12` `PAPER` Our paper on task-oriented dialog policy learning with contextual knowledge has been accepted by _**AAAI**_ 2022 (acceptance rate 15%)
 * `2021.08` `PAPER` Our paper on burstness-aware web search analysis has been accepted by _**TKDE**_ 
 * `2021.07` `SERVICE` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
@@ -49,6 +50,7 @@ Recent News
 
 Selected Honors and Rewards
 ------
+* 2022 The Second Prize in Guangdong Teaching Innovation Contest (Shenzhen University)
 * 2021 Outstanding Teaching Award, Shenzhen University
 * 2021 Winners of two tracks in the 1st Machine Automated IQ Test (MAIQ) Competition at IJCAI 
 * 2020 Annual Excellence Award, Shenzhen University
