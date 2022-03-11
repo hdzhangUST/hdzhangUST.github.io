@@ -12,7 +12,7 @@ redirect_from:
 > Though I walk through the valley of the shadow of  death, I will fear no evil: for thou art with me; thy rod and thy staff, they comfort me. ---<cite>Psalms 23:4</cite>
 
 
-Dr. Haodi Zhang ([张昊迪](http://csse.szu.edu.cn/cn/people5ef2.html?195315))
+Dr. Haodi Zhang ([张昊迪](https://csse.szu.edu.cn/pages/user/index?id=792))
 ======
 **Assistant Professor**<br>
 **[College of Computer Science and Software Engineering](http://csse.szu.edu.cn/)**<br>
