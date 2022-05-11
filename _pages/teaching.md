@@ -51,12 +51,12 @@ table th {
     text-align: center !important; /*内容居中，加上 !important 避免被 Markdown 样式覆盖*/
     background: rgba(158,188,226,0.2); /*背景色*/
 }
-table tbody tr:nth-child(n) {
+table tbody tr:nth-child(2n) {
     background: rgba(158,188,226,0.12); 
 }
 table tr:hover {
     background: #efefef; 
-    font-weight: bold;
+    font-color: #094CD1;
 }
 table th {
     white-space: nowrap; /*表头内容强制在一行显示*/
