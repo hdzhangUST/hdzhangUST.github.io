@@ -30,7 +30,7 @@ Teaching
 Teaching Experience
 ------
 
-| info | University | Class | Course | Evaluation |
+|  | University | Class | Course | Evaluation |
 | :--- | :----: | :----: | :----: | :----: |
 | 2021 Spring |  SZU | Undergraduate | Discrete Mathematics  | 98.1/100 (Top 7.1%)   |
 | 2020 Fall |  SZU | Undergraduate | Discrete Mathematics  | 93.8/100   |
@@ -38,7 +38,7 @@ Teaching Experience
 | 2020 Spring | HKUST | Master | Natural Language Processing | - |
 | 2020 Spring | SZU | Undergraduate | Compilers | 85.7/100 |
 |	2019 Fall | SZU | Undergraduate | Discrete Mathematics | 94.6/100 |
-|	2019 Spring | SZU | Undergraduate | Compilers | 100/100 (Top 0.7\%)|
-|	2018 Fall | SZU | Undergraduate | Discrete Mathematics | 93.6/100 (Top 9.8\%)|
+|	2019 Spring | SZU | Undergraduate | Compilers | 100/100 (Top 0.7%)|
+|	2018 Fall | SZU | Undergraduate | Discrete Mathematics | 93.6/100 (Top 9.8%)|
 |	2018 Spring | SZU | Undergraduate | Programming Languages | 82.7/100 |
 
