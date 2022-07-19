@@ -32,7 +32,7 @@ Recent News
 ------
 * `2022.1` `AWARD` Received the Second Prize of Shenzhen University in Guangdong Teaching Innovation Contest
 * `2021.12` `PAPER` Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/21421) on task-oriented dialog policy learning with contextual knowledge has been accepted by _**AAAI**_ 2022 (acceptance rate 15%; [code here](
-https://github.com/ResearchGroupHdZhang/DPL\ AAAI22))
+'https://github.com/ResearchGroupHdZhang/DPL AAAI22'))
 * `2021.08` `PAPER` Our paper on burstness-aware web search analysis has been accepted by _**TKDE**_ 
 * `2021.07` `SERVICE` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
 * `2021.06` `SERVICE` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)
