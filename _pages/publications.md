@@ -17,8 +17,7 @@ Research Interests
 
 <span id='publist'>Selected Publications</span>
 ------
-1. **Haodi Zhang**, Zhichao Zeng, Keting Lu, Kaishun Wu and Shiqi Zhang, Efficient Dialog Policy Learning by Reasoning with Contextual Knowledge, in _Proceedings of AAAI_ 2022:11667-11675 ([Code](
-https://github.com/ResearchGroupHdZhang/DPL\_AAAI22))
+1. **Haodi Zhang**, Zhichao Zeng, Keting Lu, Kaishun Wu and Shiqi Zhang, Efficient Dialog Policy Learning by Reasoning with Contextual Knowledge, in _Proceedings of AAAI_ 2022:11667-11675 (<p><a href="https://github.com/ResearchGroupHdZhang/DPL\_AAAI22">Code</a>)
 1. Junyang Chen, Mengzhu Wang, **Haodi Zhang**, Zhiguo Gong, Zhidan Liu, Kaishun Wu, Victor Leung, From Where and Where To Go: Deep User Interest Exploration for Sequential Location Recommendation, in _IEEE Transactions on Neural Networks and Learning Systems_ 2022 (Accepted)
 1. **Haodi Zhang**, Zhenhao Chen, Junyang Chen, Yi Zhou, Defu Lian, Kaishun Wu and Fangzhen Lin, Dynamic Decision Making Framework Based on Explicit Knowledge Reasoning and Deep Reinforcement Learning (In Chinese), in _Journal of Software_, 2022 (Accepted)
 1. Sheng Luo, **Haodi Zhang**, Qifan Li and Kaishun Wu. Knowledge-Assisted DRL for Energy
