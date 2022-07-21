@@ -21,7 +21,7 @@ Research Interests
 1. Junyang Chen, Mengzhu Wang, **Haodi Zhang**, Zhiguo Gong, Zhidan Liu, Kaishun Wu, Victor Leung, From Where and Where To Go: Deep User Interest Exploration for Sequential Location Recommendation, in _IEEE Transactions on Neural Networks and Learning Systems_ 2022 (Accepted)
 1. **Haodi Zhang**, Zhenhao Chen, Junyang Chen, Yi Zhou, Defu Lian, Kaishun Wu and Fangzhen Lin, Dynamic Decision Making Framework Based on Explicit Knowledge Reasoning and Deep Reinforcement Learning (In Chinese), in _Journal of Software_, 2022 (Accepted)
 1. Sheng Luo, **Haodi Zhang**, Qifan Li and Kaishun Wu. Knowledge-Assisted DRL for Energy
-Harvesting Based Multi-Access Wireless Communications, in _Proceedings of IEEE HPCC_ 2022 (Accepted)
+Harvesting Based Multi-Access Wireless Communications, in _Proceedings of IEEE HPCC_ 2022:869-876
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Qifan Li, Kaishun Wu, Di Jiang, Yuanfeng Song, Peiguang Lin, and Lei Chen, Burstiness-Aware Web Search Analysis on Different Levels of Evidences, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
 1. Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE, early access), 2021
 1. Zhidan Liu, Junhong Zheng, Zengyang Gong, **Haodi Zhang** and Kaishun Wu, Exploiting Multi-source Data for Adversarial Driving Style Representation Learning, in _Proceedings of 26th International Conference of DASFAA_, 2021:491-508
@@ -35,7 +35,6 @@ Harvesting Based Multi-Access Wireless Communications, in _Proceedings of IEEE H
 1. **Haodi Zhang**, Fangzhen Lin, Mapping Action Language BC to Logic Programs: A Characterization by Postulates, in _Proceedings of AAAI_ 2016:1116-1123
 1. **Haodi Zhang**, Fangzhen Lin, Characterizing Causal Action Theories and Their Implementations in Answer Set Programming: Action Languages B, C, and Beyond, in _Proceedings of IJCAI_ 2015:3285-3291
 
-[//]:* Sheng Luo, **Haodi Zhang**, Qifan Li, Kaishun Wu, Knowledge-Assisted DRL for Energy Harvesting Based Multi-Access Wireless Communications, in _Proceedings of 23rd IEEE HPCC, 2021:_
 
 Invited Talks
 ------
@@ -53,21 +52,29 @@ Grant
 * PI, _Natural Science Foundation_ of Shenzhen University, 2018-2019 (深圳大学新引进教师科研启动项目，主持)
 * Co-PI, _Joint Funds of National Natural Science Foundation of China (NSFC)_, Key Project, 2021-2024 (国家自然科学基金广东联合重点项目，参与)
 
+
+
 <div style='display: none'>
 Research Group Members
 ------
+
 * Current students
-  * Qifan Lin, MPhil student, 2019.09~
-  * Zhao Chen, MPhil student, 2019.09~
-  * Zhenhao Chen, MPhil student, 2019.09~
-  * Zhichao Zeng, MPhil student, 2019.09~
-  * Chenyu Xu, MPhil student, 2020.09~
-  * Wenxi Huang, MPhil student, 2020.09~
+  * Chenyu Xu, MPhil student, 2020.09-now
+  * Wenxi Huang, MPhil student, 2020.09-now
+  * Jinyin Nie, MPhil student, 2021.09-now
+  * Min Cai, MPhil student, 2021.09-now
+  * Jiping Zhang, MPhil student, 2021.09-now
+  * Zhiqin Kuang, MPhil student, 2021.09-now
+  
 * Graduated students
   * Weiteng Xie, MPhil student, 2018.09~2021.06, Huawei 
-  * Di Zhan, MPhil student, 2018.09~2021.06, Huawei 
-  * Zihang Gao, MPhil student, 2018.09~2021.06, Guangdong second provincal general hospital
-  * Hao Ren, MPhil student, 2018.09~2021.06, Guangdong second provincal general hospital
+  * Di Zhan, MPhil student, 2018.09-2021.06, Huawei 
+  * Zihang Gao, MPhil student, 2018.09-2021.06, Guangdong second provincal general hospital
+  * Hao Ren, MPhil student, 2018.09-2021.06, Guangdong second provincal general hospital
+  * Qifan Li, MPhil student, 2019.09-2022.06, Tencent
+  * Zhao Chen, MPhil student, 2019.09-2022.06, Huawei
+  * Zhenhao Chen, MPhil student, 2019.09-2022.06, BYD
+  * Zhichao Zeng, MPhil student, 2019.09-2022.06, Alibaba
 
 
 {% if author.googlescholar %}
