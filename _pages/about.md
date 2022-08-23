@@ -30,8 +30,8 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `2022.8` `AWARD` Congratulations to Peirou Liang, Xiaofeng Tan and Minhan Chen for the Second Prize of 15th National College Students Computer Design Competition (N4C Finals)
-* `2022.5` `AWARD` Congratulations to Peirou Liang, Chengwei He and Liangqiu Xiao in our group for Finalist Award in MCM in Modeling 2022
+* `2022.8` `AWARD` Congratulations to Peirou Liang, Xiaofeng Tan and Minhan Chen for the Second Prize of 15th _National College Students Computer Design Competition_ (N4C Finals)
+* `2022.5` `AWARD` Congratulations to Peirou Liang, Chengwei He and Liangqiu Xiao in our group for Finalist Award in _MCM in Modeling_ 2022
 * `2022.1` `AWARD` Received the Second Prize of Shenzhen University in Guangdong Teaching Innovation Contest
 * `2021.12` `PAPER` Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/21421) on task-oriented dialog policy learning with contextual knowledge has been accepted by _**AAAI**_ 2022 (acceptance rate 15%). <a href="https://github.com/ResearchGroupHdZhang/DPL_AAAI22">Code</a>
 * `2021.08` `PAPER` Our paper on burstness-aware web search analysis has been accepted by _**TKDE**_ 
