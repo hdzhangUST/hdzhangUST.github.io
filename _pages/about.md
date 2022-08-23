@@ -36,8 +36,8 @@ Recent News
 * `2021.12` `PAPER` Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/21421) on task-oriented dialog policy learning with contextual knowledge has been accepted by _**AAAI**_ 2022 (acceptance rate 15%). <a href="https://github.com/ResearchGroupHdZhang/DPL_AAAI22">Code</a>
 * `2021.08` `PAPER` Our paper on burstness-aware web search analysis has been accepted by _**TKDE**_ 
 
-<details>
-  <summary>Previous</summary>
+<details markdown=1>
+  <summary markdown="span">Previous</summary>
   
   * `2021.07` `SERVICE` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
   * `2021.06` `SERVICE` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)
