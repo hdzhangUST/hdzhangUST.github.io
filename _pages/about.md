@@ -39,10 +39,10 @@ Recent News
 <details>
 <summary><b>Previous</b></summary>
 
-
-- `2021.07` `SERVICE` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
-- `2021.06` `SERVICE` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)
-- `2021.05` `PAPER` Our [paper](https://ieeexplore.ieee.org/abstract/document/9428574) on crowd-aided best path selection has been accepted by _**TKDE**_ 
+### Previous
+* `2021.07` `SERVICE` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
+* `2021.06` `SERVICE` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)
+* `2021.05` `PAPER` Our [paper](https://ieeexplore.ieee.org/abstract/document/9428574) on crowd-aided best path selection has been accepted by _**TKDE**_ 
 - `2021.04` `AWARD` Received the Outstanding Teaching Award of Shenzhen University
 * `2021.01` `AWARD` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI_
 * `2021.01` `PAPER` Our [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_33) on adversarial driving style representation learning has been accepted by _**DASFAA**_
@@ -54,7 +54,7 @@ Recent News
 * `2019.08` `SERVICE` Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
 * `2018.11` `PAPER` Our paper on IQ tests for machine intelligence has been accepted by _**IJCAI**_ 2019
 * `2018.10` `SERVICE` Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
-} region Previous
+</details>
 
 Selected Honors and Rewards
 ------
