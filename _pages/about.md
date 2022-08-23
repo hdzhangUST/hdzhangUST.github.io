@@ -36,13 +36,14 @@ Recent News
 * `2021.12` `PAPER` Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/21421) on task-oriented dialog policy learning with contextual knowledge has been accepted by _**AAAI**_ 2022 (acceptance rate 15%). <a href="https://github.com/ResearchGroupHdZhang/DPL_AAAI22">Code</a>
 * `2021.08` `PAPER` Our paper on burstness-aware web search analysis has been accepted by _**TKDE**_ 
 
+<details>
+<summary><b>Previous</b></summary>
 
-region i { Previous
----
-* `2021.07` `SERVICE` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
-* `2021.06` `SERVICE` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)
-* `2021.05` `PAPER` Our [paper](https://ieeexplore.ieee.org/abstract/document/9428574) on crowd-aided best path selection has been accepted by _**TKDE**_ 
-* `2021.04` `AWARD` Received the Outstanding Teaching Award of Shenzhen University
+
+- `2021.07` `SERVICE` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
+- `2021.06` `SERVICE` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)
+- `2021.05` `PAPER` Our [paper](https://ieeexplore.ieee.org/abstract/document/9428574) on crowd-aided best path selection has been accepted by _**TKDE**_ 
+- `2021.04` `AWARD` Received the Outstanding Teaching Award of Shenzhen University
 * `2021.01` `AWARD` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI_
 * `2021.01` `PAPER` Our [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_33) on adversarial driving style representation learning has been accepted by _**DASFAA**_
 * `2020.12` `TALK` Invited to give a talk entitled "_Leveraging Human Intelligence in Machine Learning for NLP_" on the _1st Macau Symposium on Linguistics_, Macau University, Dec. 13, 2020
