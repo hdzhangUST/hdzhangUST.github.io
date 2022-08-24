@@ -67,7 +67,7 @@ Selected Honors and Awards
 * 2018 'Peacock' High-level Talent, Shenzhen City
 
 Faculty Advior Awards
-* 2022 The Second Prize of 15th _National College Students Computer Design Competition_ (_N4C_ Finals), Students: Peirou Liang, Xiaofeng Tan and Minhan Chen
+* 2022 The Second Prize of 15th _National College Students Computer Design Competition_ (_N4C_ Finals), students: Peirou Liang, Xiaofeng Tan and Minhan Chen
 * 2022 Finalist Award in the _Mathematical Contest in Modeling_, students: Peirou Liang, Chengwei He and Liangqiu Xiao 
 * 2021 The Third Prize of 4th Blooming Cup 5G Application Competition, student: Zisen Lin
 * 2021 Winner of Verbal Tracks in the IJCAI Machine Automated IQ Test (MAIQ) Competition, students: Zhao Chen, Qifan Li, Zhenhao Chen
