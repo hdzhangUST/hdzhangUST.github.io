@@ -65,6 +65,7 @@ Selected Honors and Awards
 * 2019 Excellence Award in 'Torch' teaching program, Shenzhen University
 * 2019 Best New Teacher Award, CSSE, Shenzhen University
 * 2018 'Peacock' High-level Talent, Shenzhen City
+
 **Faculty Advior Awards**
 * 2022 The Second Prize of 15th _National College Students Computer Design Competition_ (_N4C_ Finals)
   * Students: Peirou Liang, Xiaofeng Tan and Minhan Chen
