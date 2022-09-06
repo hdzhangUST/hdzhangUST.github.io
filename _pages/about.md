@@ -72,7 +72,7 @@ Selected Honors and Awards
 * 2022 Finalist Award in the _Mathematical Contest in Modeling_
   * Students: Peirou Liang, Chengwei He and Liangqiu Xiao 
 * 2021 The Third Prize of 4th Blossom Cup 5G Application Competition
-  * Student: Zisen Lin
+  * Student: Zisen Lin, Ke Duan, Jiahao Lin
 * 2021 Winner of Verbal Tracks in the IJCAI Machine Automated IQ Test (MAIQ) Competition
   * Students: Zhao Chen, Qifan Li, Zhenhao Chen
 * 2021 Winner of Diagram Tracks in the IJCAI Machine Automated IQ Test (MAIQ) Competition
