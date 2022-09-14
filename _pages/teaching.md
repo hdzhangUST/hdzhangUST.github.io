@@ -57,7 +57,7 @@ table tbody tr:nth-child(2n) {
 table tr:hover {
     background: #efefef; 
     color: #094CD1;
-    
+
     font-weight: bold;
 }
 table th {
@@ -77,7 +77,7 @@ table td:nth-child(1) {
 
 
 |  | University | Class | Course | Evaluation |
-| :--- | :----: | :----: | :----: | :----: |
+| :----: | :----: | :----: | :----: | :----: |
 | 2021 Spring |  SZU | Undergraduate | Discrete Mathematics  | 98.1/100 (Top 7.1%)   |
 | 2020 Fall |  SZU | Undergraduate | Discrete Mathematics  | 93.8/100   |
 | 2020 Fall |  SZU | Undergraduate | Natural Language Processing  | 85.2/100   |
