@@ -57,6 +57,8 @@ table tbody tr:nth-child(2n) {
 table tr:hover {
     background: #efefef; 
     color: #094CD1;
+    
+    font-weight: bold;
 }
 table th {
     white-space: nowrap; /*表头内容强制在一行显示*/
