@@ -36,8 +36,8 @@ Harvesting Based Multi-Access Wireless Communications, in _Proceedings of IEEE H
 1. [<font color=Blue>ISWC-18</font>] Fangyuan He, Yi Zhou, **Haodi Zhang**, Zhiyong Feng: Dual-enhanced Word Representations Based on Knowledge Base, in ISWC (short paper) 2018.
 1. [<font color=Blue>INFOCOM-17</font>] **Haodi Zhang**, Yu Wang, Xiangtong Qi, Weiping Xu, Tao Peng, Shucheng Liu, Demo abstract: An intent solver for enabling intent-based SDN, in _Proceedings of INFOCOM (short paper)_ 2017:968-969
 1. [<font color=Blue>AIJ</font>] **Haodi Zhang**, Fangzhen Lin, Characterizing causal action theories and their implementations in answer set programming, in _Artificial Intelligence_ (AIJ) 248:1-8, 2017
-1. [<font color=Blue>AAAI</font>] **Haodi Zhang**, Fangzhen Lin, Mapping Action Language BC to Logic Programs: A Characterization by Postulates, in _Proceedings of AAAI_ 2016:1116-1123
-1. [<font color=Blue>IJCAI</font>] **Haodi Zhang**, Fangzhen Lin, Characterizing Causal Action Theories and Their Implementations in Answer Set Programming: Action Languages B, C, and Beyond, in _Proceedings of IJCAI_ 2015:3285-3291
+1. [<font color=Blue>AAAI-16</font>] **Haodi Zhang**, Fangzhen Lin, Mapping Action Language BC to Logic Programs: A Characterization by Postulates, in _Proceedings of AAAI_ 2016:1116-1123
+1. [<font color=Blue>IJCAI-15</font>] **Haodi Zhang**, Fangzhen Lin, Characterizing Causal Action Theories and Their Implementations in Answer Set Programming: Action Languages B, C, and Beyond, in _Proceedings of IJCAI_ 2015:3285-3291
 
 
 Invited Talks
