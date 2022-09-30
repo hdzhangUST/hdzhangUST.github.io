@@ -95,7 +95,7 @@ Grant
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhdzhangust.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](contact)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhdzhangust.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visits+%28today%2Ftotal%29+&edge_flat=false)](contact)
 
 
 
