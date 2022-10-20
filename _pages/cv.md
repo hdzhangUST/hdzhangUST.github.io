@@ -77,4 +77,4 @@ Teaching
 `2018 Feb.` Programming Languages, SZU<br>
 
 <br>
-My full [CV](../files/CV_Haodi.pdf) [中文简历](../files/CV_Haodi_CN.pdf)
+My full [CV](../files/CV_Haodi.pdf) and [中文简历](../files/CV_Haodi_CN.pdf)
