@@ -59,7 +59,7 @@ Selected Honors and Awards
 ------
 * 2022 The Outstanding Teacher Award of Shenzhen University
 * 2022 The Second Prize in Guangdong Teaching Innovation Contest (Shenzhen University)
-* 2021 Outstanding Teaching Award, Shenzhen University
+* 2021 Outstanding Undergraduate Course Award, Shenzhen University
 * 2021 Winner of Verbal track in the IJCAI-20 Machine Automated IQ Test (IJCAI MAIQ) Competition 
 * 2021 Winner of Diagram track in the IJCAI-20 Machine Automated IQ Test (IJCAI MAIQ) Competition
 * 2020 Annual Excellence Award, Shenzhen University
