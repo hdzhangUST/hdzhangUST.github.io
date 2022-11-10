@@ -30,6 +30,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `2022.11` `PAPER` Our paper on hierarchical crowdsourcing for data labeling has been accepted by _**ICDE**_ 2022
 * `2022.11` `AWARD` Received the Outstanding Teacher Award of Shenzhen University
 * `2022.8` `AWARD` Congratulations to Peirou Liang, Xiaofeng Tan and Minhan Chen in our group for the Second Prize of 15th _National College Students Computer Design Competition_ (_N4C_ Finals)
 * `2022.5` `AWARD` Congratulations to Peirou Liang, Chengwei He and Liangqiu Xiao in our group for Finalist Award in the _Mathematical Contest in Modeling_ 2022
