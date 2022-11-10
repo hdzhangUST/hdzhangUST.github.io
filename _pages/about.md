@@ -30,7 +30,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `2022.11` `PAPER` Our paper on label aggregation based on hirarchical crowdsourcing has been accepted by _**ICDE**_ 2023
+* `2022.11` `AWARD` Received the Outstanding Teacher Award of Shenzhen University
 * `2022.8` `AWARD` Congratulations to Peirou Liang, Xiaofeng Tan and Minhan Chen in our group for the Second Prize of 15th _National College Students Computer Design Competition_ (_N4C_ Finals)
 * `2022.5` `AWARD` Congratulations to Peirou Liang, Chengwei He and Liangqiu Xiao in our group for Finalist Award in the _Mathematical Contest in Modeling_ 2022
 * `2022.1` `AWARD` Received the Second Prize of Shenzhen University in Guangdong Teaching Innovation Contest
@@ -57,9 +57,11 @@ Recent News
 
 Selected Honors and Awards
 ------
-* 2022 The Second Prize in Guangdong Teaching Innovation Contest (Shenzhen University)
-* 2021 Outstanding Teaching Award, Shenzhen University
-* 2021 Winners of two tracks in the 1st Machine Automated IQ Test (MAIQ) Competition at IJCAI 
+* 2022 Outstanding Teacher Award of Shenzhen University
+* 2022 2nd Prize of Shenzhen University in Teaching Innovation Contest
+* 2021 Outstanding Undergraduate Course Award, Shenzhen University
+* 2021 Winner of Verbal track in the IJCAI-20 Machine Automated IQ Test (IJCAI MAIQ) Competition 
+* 2021 Winner of Diagram track in the IJCAI-20 Machine Automated IQ Test (IJCAI MAIQ) Competition
 * 2020 Annual Excellence Award, Shenzhen University
 * 2019 Tencent 'Rhino-bird' Open-Funded Young Researcher Award
 * 2019 Best Class Award for _Discrete Mathematics_, CSSE, Shenzhen University
