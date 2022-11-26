@@ -44,7 +44,7 @@ Harvesting Based Multi-Access Wireless Communications, in _Proceedings of IEEE H
 
 Invited Talks
 ------
-* Knowledge Representation and Reasoning for Economic Brain of Avatars, on _The Bay Area Fintech University Forum_, Shenzhen, Dec. 1st, 2022
+* Knowledge Representation and Reasoning for Economic Brain of Avatars, on _[The Bay Area Fintech University Forum](https://mp.weixin.qq.com/s/ssm4M0IlVAdh8KV_8CTVYA)_, Shenzhen, Dec. 1st, 2022
 * Knowledge Representation and Reasoning for Deep Learning in NLP, on _The 2nd Macau Symposium on Linguistics_, Macau University, Dec. 3th, 2021
 * Natural language processing: tasks, models and applications, on _The 2nd Interdisciplinary Frontier Forum_, BNU Zhuhai, Nov. 24, 2021
 * Leveraging Human Intelligence in Machine Learning for NLP, on _The 1st Macau Symposium on Linguistics_, Macau University, Dec. 4th, 2020
