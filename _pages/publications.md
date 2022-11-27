@@ -17,6 +17,7 @@ Research Interests
 
 <span id='publist'>Selected Publications</span>
 ------
+1. [<font color=Blue>AAAI-23</font>] Jin Zhang, Defu Lian, **Haodi Zhang**, Baoyun Wang, Enhong Chen. Query-aware Quantization for Maximum Inner Product Search, in _Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence_ (Accepted)
 1. [<font color=Blue>ICDE-23</font>] **Haodi Zhang**, Wenxi Huang, Zhenhan Su, Junyang Chen, Di Jiang, Lixin Fan, Chen Zhang, Defu Lian and Kaishun Wu. Hierarchical Crowdsourcing for Data Labeling with Heterogeneous Crowd, in _Proceedings of IEEE International Conference on Data Engineering_ (Accepted)
 <!--- 1. [<font color=Blue>IEEE TCSS</font>] Junyang Chen, Mengzhu Wang, **Haodi Zhang**, Zhiguo Gong, Zhidan Liu, Kaishun Wu, Victor Leung, From Where and Where To Go: Deep User Interest Exploration for Sequential Location Recommendation, in _IEEE Transactions on Neural Networks and Learning Systems_ 2022 (Accepted)--->
 1. [<font color=Blue>AAAI-22</font>] **Haodi Zhang**, Zhichao Zeng, Keting Lu, Kaishun Wu and Shiqi Zhang, Efficient Dialog Policy Learning by Reasoning with Contextual Knowledge, in _Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence_ 2022:11667-11675. <a href="https://github.com/ResearchGroupHdZhang/DPL_AAAI22">Code</a>
