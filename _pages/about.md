@@ -30,6 +30,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `2022.12` `ACTIVITY` Invited to give a talk on the _[Bay Area Fintech University Forum](https://mp.weixin.qq.com/s/ssm4M0IlVAdh8KV_8CTVYA)_, Shenzhen
 * `2022.11` `PAPER` Our paper on hierarchical crowdsourcing for data labeling has been accepted by _**ICDE**_ 2023
 * `2022.11` `AWARD` Received the Outstanding Teacher Award of Shenzhen University
 * `2022.8` `AWARD` Congratulations to Peirou Liang, Xiaofeng Tan and Minhan Chen in our group for the Second Prize of 15th _National College Students Computer Design Competition_ (_N4C_ Finals)
@@ -40,20 +41,20 @@ Recent News
 <details markdown=1>
   <summary markdown="span"><span style="color:maroon;font-size:22px"><b>Earlier Highlights ...</b></span></summary>
   
-  * `2021.07` `SERVICE` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
-  * `2021.06` `SERVICE` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)
+  * `2021.07` `ACTIVITY` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
+  * `2021.06` `ACTIVITY` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)
   * `2021.05` `PAPER` Our [paper](https://ieeexplore.ieee.org/abstract/document/9428574) on crowd-aided best path selection has been accepted by _**TKDE**_ 
   * `2021.04` `AWARD` Received the Outstanding Teaching Award of Shenzhen University
   * `2021.01` `AWARD` We won the 1st places of two tracks in the first Machine Automated IQ (MAIQ) Test Challenge at _IJCAI_
   * `2021.01` `PAPER` Our [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_33) on adversarial driving style representation learning has been accepted by _**DASFAA**_
   * `2020.12` `TALK` Invited to give a talk entitled "_Leveraging Human Intelligence in Machine Learning for NLP_" on the _1st Macau Symposium on Linguistics_, Macau University, Dec. 13, 2020
-  * `2020.11` `SERVICE` Invited to serve as a Senior Program Committee member for _IJCAI_ 2021
+  * `2020.11` `ACTIVITY` Invited to serve as a Senior Program Committee member for _IJCAI_ 2021
   * `2020.09` `PAPER` Our [paper](https://ieeexplore.ieee.org/document/9210063) on cleaning uncertainty with crowdingsourcing has been accepted by _**TKDE**_
-  * `2020.08-11` `SERVICE` Invited to serve on Program Committee of _AAAI_ 2021, _EMNLP_ 2021, _NeurIPS_ 2021, and _ACL/IJCNLP_ 2021
+  * `2020.08-11` `ACTIVITY` Invited to serve on Program Committee of _AAAI_ 2021, _EMNLP_ 2021, _NeurIPS_ 2021, and _ACL/IJCNLP_ 2021
   * `2019.10` `PAPER` Our paper on deep learning in game playing has been accepted by _**AAAI**_ 2020
-  * `2019.08` `SERVICE` Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
+  * `2019.08` `ACTIVITY` Invited to serve on Program Committee of _AAAI_ 2020, _IJCAI_ 2020
   * `2018.11` `PAPER` Our paper on IQ tests for machine intelligence has been accepted by _**IJCAI**_ 2019
-  * `2018.10` `SERVICE` Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
+  * `2018.10` `ACTIVITY` Invited to serve on Program Committee of _AAAI_ 2019, _IJCAI_ 2019
 </details>
 
 Selected Honors and Awards
