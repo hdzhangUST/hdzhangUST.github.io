@@ -17,8 +17,8 @@ Research Interests
 
 <span id='publist'>Selected Publications</span>
 ------
-1. [<font color=Blue>AAAI-23</font>] Jin Zhang, Defu Lian, **Haodi Zhang**, Baoyun Wang, Enhong Chen. Query-aware Quantization for Maximum Inner Product Search, in _Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence_ (Accepted)
 1. [<font color=Blue>ICDE-23</font>] **Haodi Zhang**, Wenxi Huang, Zhenhan Su, Junyang Chen, Di Jiang, Lixin Fan, Chen Zhang, Defu Lian and Kaishun Wu. Hierarchical Crowdsourcing for Data Labeling with Heterogeneous Crowd, in _Proceedings of IEEE International Conference on Data Engineering_ (Accepted)
+1. [<font color=Blue>AAAI-23</font>] Jin Zhang, Defu Lian, **Haodi Zhang**, Baoyun Wang, Enhong Chen. Query-aware Quantization for Maximum Inner Product Search, in _Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence_ (Accepted)
 <!--- 1. [<font color=Blue>IEEE TCSS</font>] Junyang Chen, Mengzhu Wang, **Haodi Zhang**, Zhiguo Gong, Zhidan Liu, Kaishun Wu, Victor Leung, From Where and Where To Go: Deep User Interest Exploration for Sequential Location Recommendation, in _IEEE Transactions on Neural Networks and Learning Systems_ 2022 (Accepted)--->
 1. [<font color=Blue>TKDE</font>] Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE), 35(1): 1072-1087, 2023
 1. [<font color=Blue>AAAI-22</font>] **Haodi Zhang**, Zhichao Zeng, Keting Lu, Kaishun Wu and Shiqi Zhang, Efficient Dialog Policy Learning by Reasoning with Contextual Knowledge, in _Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence_ 2022:11667-11675. <a href="https://github.com/ResearchGroupHdZhang/DPL_AAAI22">Code</a>
@@ -45,7 +45,7 @@ Harvesting Based Multi-Access Wireless Communications, in _Proceedings of IEEE I
 
 Invited Talks
 ------
-* Knowledge Representation and Reasoning for Economic Brain of Avatars, on _[The Bay Area Fintech University Forum](https://mp.weixin.qq.com/s/ssm4M0IlVAdh8KV_8CTVYA)_, Shenzhen, Dec. 1st, 2022
+* Knowledge Representation and Reasoning for Economic Brain of Avatars, on _[The Bay Area Fintech University Forum](https://mp.weixin.qq.com/s/ssm4M0IlVAdh8KV_8CTVYA)_, Shenzhen, Feb. 4th, 2022
 * Knowledge Representation and Reasoning for Deep Learning in NLP, on _The 2nd Macau Symposium on Linguistics_, Macau University, Dec. 3th, 2021
 * Natural language processing: tasks, models and applications, on _The 2nd Interdisciplinary Frontier Forum_, BNU Zhuhai, Nov. 24, 2021
 * Leveraging Human Intelligence in Machine Learning for NLP, on _The 1st Macau Symposium on Linguistics_, Macau University, Dec. 4th, 2020
