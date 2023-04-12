@@ -17,7 +17,8 @@ Research Interests
 
 <span id='publist'>Selected Publications</span>
 ------
-1. [<font color=Blue>ICDE-23</font>] **Haodi Zhang**, Wenxi Huang, Zhenhan Su, Junyang Chen, Di Jiang, Lixin Fan, Chen Zhang, Defu Lian and Kaishun Wu. Hierarchical Crowdsourcing for Data Labeling with Heterogeneous Crowd, in _Proceedings of IEEE International Conference on Data Engineering_ (Accepted, CCF-A)
+1. [<font color=Blue>ICDE-23</font>] **Haodi Zhang**, Wenxi Huang, Zhenhan Su, Junyang Chen, Di Jiang, Lixin Fan, Chen Zhang, Defu Lian and Kaishun Wu. Hierarchical Crowdsourcing for Data Labeling with Heterogeneous Crowd, in _Proceedings of IEEE International Conference on Data Engineering_ (Accepted, CCF-A) <a href="https://github.com/ResearchGroupHdZhang/HC-code">Code</a>
+
 1. [<font color=Blue>AAAI-23</font>] Jin Zhang, Defu Lian, **Haodi Zhang**, Baoyun Wang, Enhong Chen. Query-aware Quantization for Maximum Inner Product Search, in _Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence_ (Accepted, CCF-A)
 <!--- 1. [<font color=Blue>IEEE TCSS</font>] Junyang Chen, Mengzhu Wang, **Haodi Zhang**, Zhiguo Gong, Zhidan Liu, Kaishun Wu, Victor Leung, From Where and Where To Go: Deep User Interest Exploration for Sequential Location Recommendation, in _IEEE Transactions on Neural Networks and Learning Systems_ 2022 (Accepted)--->
 1. [<font color=Blue>TKDE</font>] Chen Zhang<sup>#</sup>, **Haodi Zhang<sup>#*</sup>**, Weiteng Xie, Nan Liu, Kaishun Wu and Lei Chen, Where To: Crowd-Aided Path Selection by Selective Bayesian Network, in _IEEE Transactions on Knowledge and Data Engineering_ (IEEE TKDE), 35(1): 1072-1087, 2023 (CCF-A)
