@@ -95,3 +95,237 @@ Research Group Members
   {% include archive-single.html %}
 {% endfor %}
 </div>
+
+
+Former Students
+------
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:850px">
+  <thead>
+    <tr>
+      <th scope="col" style="height:24px; text-align:center; width:100px"><strong>姓名</strong></th>
+      <th scope="col" style="height:24px; text-align:center; width:100px">毕业学历</th>
+      <th scope="col" style="height:24px; text-align:center; width:100px"><strong>毕业年份</strong></th>
+      <th scope="col" style="height:24px; text-align:center; width:200px"><strong>现工作单位/现就读学校</strong></th>
+      <th scope="col" style="height:24px; text-align:center; width:200px"><strong>部门/院系</strong></th>
+      <th scope="col" style="height:24px; text-align:center; width:200px"><strong>职位全称</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">解为滕</td>
+      <td style="height:24px; text-align:center; width:70px">研究生</td>
+      <td style="height:24px; text-align:center; width:70px">2021</td>
+      <td style="height:24px; text-align:center; width:174px">华为</td>
+      <td style="height:24px; text-align:center; width:180px">集团IT</td>
+      <td style="height:24px; text-align:center; width:266px">通用软件开发工程师</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">高子航</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2021</td>
+      <td style="height:24px; text-align:center; width:174px">广东省第二人民医院</td>
+      <td style="height:24px; text-align:center; width:180px">信息科</td>
+      <td style="height:24px; text-align:center; width:266px">科员</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">詹迪</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2021</td>
+      <td style="height:24px; text-align:center; width:174px">华为</td>
+      <td style="height:24px; text-align:center; width:180px">质量与流程IT部</td>
+      <td style="height:24px; text-align:center; width:266px">开发</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">任昊</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2021</td>
+      <td style="height:24px; text-align:center; width:174px">广东省第二人民医院</td>
+      <td style="height:24px; text-align:center; width:180px">人工智能研究所</td>
+      <td style="height:24px; text-align:center; width:266px">专职科研人员岗</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">陈钊</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2022</td>
+      <td style="height:24px; text-align:center; width:174px">华为</td>
+      <td style="height:24px; text-align:center; width:180px">集团IT</td>
+      <td style="height:24px; text-align:center; width:266px">数字化IT工程师</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">曾志超</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2022</td>
+      <td style="height:24px; text-align:center; width:174px">阿里</td>
+      <td style="height:24px; text-align:center; width:180px">阿里云</td>
+      <td style="height:24px; text-align:center; width:266px">开发工程师</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">李启凡</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2022</td>
+      <td style="height:24px; text-align:center; width:174px">腾讯</td>
+      <td style="height:24px; text-align:center; width:180px">csig云技术与运营服务部</td>
+      <td style="height:24px; text-align:center; width:266px">后台开发工程师</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">陈振浩</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2022</td>
+      <td style="height:24px; text-align:center; width:174px">比亚迪</td>
+      <td style="height:24px; text-align:center; width:180px">/</td>
+      <td style="height:24px; text-align:center; width:266px">产品经理</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">彭义辉</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2019</td>
+      <td style="height:24px; text-align:center; width:174px">英国保诚科技 Prudential</td>
+      <td style="height:24px; text-align:center; width:180px">后端开发</td>
+      <td style="height:24px; text-align:center; width:266px">Software Engineer</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">林楷渝</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2019</td>
+      <td style="height:24px; text-align:center; width:174px">Shopee</td>
+      <td style="height:24px; text-align:center; width:180px">MarketplaceQA</td>
+      <td style="height:24px; text-align:center; width:266px">Senior Engineer</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">张莹</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2020</td>
+      <td style="height:24px; text-align:center; width:174px">深圳大学</td>
+      <td style="height:24px; text-align:center; width:180px">计算机与软件学院</td>
+      <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">周彦</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2020</td>
+      <td style="height:24px; text-align:center; width:174px">中国科学院</td>
+      <td style="height:24px; text-align:center; width:180px">计算技术研究所</td>
+      <td style="height:24px; text-align:center; width:266px">研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">邢凯旋</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2020</td>
+      <td style="height:24px; text-align:center; width:174px">深圳奥统平科技有限公司</td>
+      <td style="height:24px; text-align:center; width:180px">研发</td>
+      <td style="height:24px; text-align:center; width:266px">Java后台开发</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">吴宇棱</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2020</td>
+      <td style="height:24px; text-align:center; width:174px">卡内基梅隆大学</td>
+      <td style="height:24px; text-align:center; width:180px">信息网络学院</td>
+      <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">俞灵霄</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2021</td>
+      <td style="height:24px; text-align:center; width:174px">浙江大学</td>
+      <td style="height:24px; text-align:center; width:180px">计算机科学与技术学院</td>
+      <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">邹力</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2021</td>
+      <td style="height:24px; text-align:center; width:174px">Bytedance</td>
+      <td style="height:24px; text-align:center; width:180px">智能创作</td>
+      <td style="height:24px; text-align:center; width:266px">移动端研发</td>
+    </tr>
+    <tr>
+      <td style="height:23px; text-align:center; width:70px">吴蔡锋</td>
+      <td style="height:23px; text-align:center; width:63px">本科生</td>
+      <td style="height:23px; text-align:center; width:54px">2021</td>
+      <td style="height:23px; text-align:center; width:174px">香港理工大学</td>
+      <td style="height:23px; text-align:center; width:180px">IOT</td>
+      <td style="height:23px; text-align:center; width:266px">硕士研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">彭巍</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2021</td>
+      <td style="height:24px; text-align:center; width:174px">腾讯</td>
+      <td style="height:24px; text-align:center; width:180px">cdg广告营销与服务线</td>
+      <td style="height:24px; text-align:center; width:266px">前端开发</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">张嘉睿</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2021</td>
+      <td style="height:24px; text-align:center; width:174px">莱斯大学</td>
+      <td style="height:24px; text-align:center; width:180px">计算机与软件学院</td>
+      <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">邹宇帆</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2021</td>
+      <td style="height:24px; text-align:center; width:174px">新加坡国立大学</td>
+      <td style="height:24px; text-align:center; width:180px">智能系统</td>
+      <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">廖芯艺</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2022</td>
+      <td style="height:24px; text-align:center; width:174px">中国工商银行</td>
+      <td style="height:24px; text-align:center; width:180px">软件开发中心</td>
+      <td style="height:24px; text-align:center; width:266px">研发岗</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">杨正邦</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2022</td>
+      <td style="height:24px; text-align:center; width:174px">UC Irvine</td>
+      <td style="height:24px; text-align:center; width:180px">Data Science</td>
+      <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">金子鑫</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2022</td>
+      <td style="height:24px; text-align:center; width:174px">香港中文大学</td>
+      <td style="height:24px; text-align:center; width:180px">系统工程与工程管理学系</td>
+      <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">陈瑨</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2022</td>
+      <td style="height:24px; text-align:center; width:174px">中国科学院</td>
+      <td style="height:24px; text-align:center; width:180px">信息工程研究所</td>
+      <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">林俊雄</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2022</td>
+      <td style="height:24px; text-align:center; width:174px">香港理工大学</td>
+      <td style="height:24px; text-align:center; width:180px">计算机系</td>
+      <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">陈晔</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2019</td>
+      <td style="height:24px; text-align:center; width:174px">数字广东</td>
+      <td style="height:24px; text-align:center; width:180px">/</td>
+      <td style="height:24px; text-align:center; width:266px">前端开发</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">朱东炯</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2022</td>
+      <td style="height:24px; text-align:center; width:174px">暨南大学</td>
+      <td style="height:24px; text-align:center; width:180px">信息科学技术学院</td>
+      <td style="height:24px; text-align:center; width:266px">研究生</td>
+    </tr>
+  </tbody>
+</table>
