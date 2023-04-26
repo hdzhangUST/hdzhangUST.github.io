@@ -99,6 +99,10 @@ Research Group Members
 
 Former Students
 ------
+<style>
+tr:nth-child(even) {background-color: #A9D5E1;}
+tr:hover {background-color: #2C5561;color:white;}
+</style>
 <table border="1" cellspacing="0" style="border-collapse:collapse; width:850px">
   <thead>
     <tr>
