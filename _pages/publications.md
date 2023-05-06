@@ -311,8 +311,8 @@ tr:hover {background-color: #2C5561;color:white;}
       <td style="height:24px; text-align:center; width:70px">林俊雄</td>
       <td style="height:24px; text-align:center; width:63px">本科生</td>
       <td style="height:24px; text-align:center; width:54px">2022</td>
-      <td style="height:24px; text-align:center; width:174px">香港理工大学</td>
-      <td style="height:24px; text-align:center; width:180px">计算机系</td>
+      <td style="height:24px; text-align:center; width:174px">复旦大学</td>
+      <td style="height:24px; text-align:center; width:180px">工程与应用技术研究院</td>
       <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
     </tr>
     <tr>
