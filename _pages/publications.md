@@ -105,7 +105,7 @@ tr:hover {background-color: #2C5561;color:white;}
 </style>
 <table border="1" cellspacing="0" style="border-collapse:collapse; width:850px">
   <thead>
-    <tr>
+    <tr style="background-color:#2C5561">
       <th scope="col" style="height:24px; text-align:center; width:100px"><strong>姓名</strong></th>
       <th scope="col" style="height:24px; text-align:center; width:100px">毕业学历</th>
       <th scope="col" style="height:24px; text-align:center; width:100px"><strong>毕业年份</strong></th>
