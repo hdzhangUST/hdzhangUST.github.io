@@ -30,6 +30,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `2023.7` `ACTIVITY` Invited to give a talk on the annual conference of South China Financial Executive Association (SCFEA), Shenzhen
 * `2022.12` `ACTIVITY` Invited to give a talk on the _[Bay Area Fintech University Forum](https://mp.weixin.qq.com/s/ssm4M0IlVAdh8KV_8CTVYA)_, Shenzhen
 * `2022.11` `PAPER` Our paper on hierarchical crowdsourcing for data labeling has been accepted by _**ICDE**_ 2023
 * `2022.11` `AWARD` Received the Outstanding Teacher Award of Shenzhen University
