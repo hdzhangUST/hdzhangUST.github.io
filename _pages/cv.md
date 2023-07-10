@@ -20,12 +20,13 @@ Education
 Work experience
 ------
 * 2023-now: Associate Professor
+  * Computer Science and Software Engineering, Shenzhen University, China
 * 2017-2023: Assistant Professor
-  * CSSE, Shenzhen University, China
+  * Computer Science and Software Engineering, Shenzhen University, China
 * 2019-2020: Guest Lecturer
-  * CSE, Hong Kong University of Science and Technology
+  * Computer Science and Engineering, Hong Kong University of Science and Technology
 * 2016-2017: Postdoctoral Research Fellow
-  * IELM, Hong Kong University of Science and Technology
+  * Industrial Engineering and Decision Analytics, Hong Kong University of Science and Technology
   * Host: Professor [Xiangtong Qi](https://seng.ust.hk/about/people/faculty/xiangtong-qi)
 
 Publications
