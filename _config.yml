@@ -89,9 +89,8 @@ author:
   email            : "zhanghd.ustc@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"[DBLP](https://dblp.org/pid/165/3321.html)"
-  bio              : string: |
-    Associate Professors  
-    Shenzhen University
+  bio              : "Associate Professor\n\
+   Shenzhen University"
   location         : "Shenzhen, China"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   bitbucket        :
