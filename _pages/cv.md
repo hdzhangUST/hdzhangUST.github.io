@@ -19,7 +19,8 @@ Education
 
 Work experience
 ------
-* 2017-now: Assistant Professor
+* 2023-now: Associate Professor
+* 2017-2023: Assistant Professor
   * CSSE, Shenzhen University, China
 * 2019-2020: Guest Lecturer
   * CSE, Hong Kong University of Science and Technology
