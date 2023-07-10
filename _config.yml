@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Dr. Haodi Zhang"
   avatar           : "profile.png"
-  bio              : "Associate Professor, Computer Science, Shenzhen University"
+  bio              : "Associate Professor"\n "Shenzhen University"
   location         : "Shenzhen, China"
   employer         : "Shenzhen University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -91,11 +91,11 @@ author:
   email            : "zhanghd.ustc@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"[DBLP](https://dblp.org/pid/165/3321.html)"
-  bio              : "Associate Professor, CSSE, Shenzhen University"#\n "College of Computer Science and Software Engineering"\n "Shenzhen University"
+  bio              : "Associate Professor"\n "Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  bio              : "Associate Professor, CSSE, Shenzhen University"#\n "College of Computer Science and Software Engineering"\n "Shenzhen University"
+  bio              : "Associate Professor"\n "Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
