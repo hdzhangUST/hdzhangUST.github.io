@@ -21,7 +21,7 @@ Dr. Haodi Zhang ([张昊迪](https://csse.szu.edu.cn/pages/user/index?id=792))
 
 
 
-I am currently an Assistant Professor in Computer Science and Software Engineering, Shenzhen University, China. 
+I am currently an Associate Professor in Computer Science and Software Engineering, Shenzhen University, China. 
 I received my Ph.D. degree in Computer Science from  CSE of Hong Kong University of Science and Technology in 2016, supervised by [Prof. Fangzhen Lin](https://www.cse.ust.hk/admin/people/faculty/profile/flin). Before that, I received my B.S. in Computer Science from University of Science and Technology of China in 2009.
 
 Research Interests
