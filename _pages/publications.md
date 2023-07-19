@@ -180,6 +180,22 @@ tr:hover {background-color: #2C5561;color:white;}
       <td style="height:24px; text-align:center; width:266px">产品经理</td>
     </tr>
     <tr>
+      <td style="height:24px; text-align:center; width:70px">黄雯茜</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2023</td>
+      <td style="height:24px; text-align:center; width:174px">广州市机电技师学院</td>
+      <td style="height:24px; text-align:center; width:180px">物流商贸系</td>
+      <td style="height:24px; text-align:center; width:266px">讲师</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">许陈宇</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2023</td>
+      <td style="height:24px; text-align:center; width:174px">鸿芯微纳</td>
+      <td style="height:24px; text-align:center; width:180px">机器学习组</td>
+      <td style="height:24px; text-align:center; width:266px">机器学习算法工程师</td>
+    </tr>
+    <tr>
       <td style="height:24px; text-align:center; width:70px">彭义辉</td>
       <td style="height:24px; text-align:center; width:63px">本科生</td>
       <td style="height:24px; text-align:center; width:54px">2019</td>
