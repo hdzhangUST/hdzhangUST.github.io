@@ -347,5 +347,29 @@ tr:hover {background-color: #2C5561;color:white;}
       <td style="height:24px; text-align:center; width:180px">信息科学技术学院</td>
       <td style="height:24px; text-align:center; width:266px">研究生</td>
     </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">周鸿欣</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2023</td>
+      <td style="height:24px; text-align:center; width:174px">卡莱特云科技</td>
+      <td style="height:24px; text-align:center; width:180px">软件部</td>
+      <td style="height:24px; text-align:center; width:266px">软件开发</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">张伟鸿</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2023</td>
+      <td style="height:24px; text-align:center; width:174px">华为</td>
+      <td style="height:24px; text-align:center; width:180px">财经部门</td>
+      <td style="height:24px; text-align:center; width:266px">软财经数字化工程师</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">齐凤天</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2023</td>
+      <td style="height:24px; text-align:center; width:174px">新凯来</td>
+      <td style="height:24px; text-align:center; width:180px">研发部门</td>
+      <td style="height:24px; text-align:center; width:266px">研发工程师</td>
+    </tr>
   </tbody>
 </table>
