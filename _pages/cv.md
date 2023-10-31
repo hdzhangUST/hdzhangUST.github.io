@@ -65,6 +65,7 @@ Grant
 Professional Services
 ------
 * **Local Chair** for EAI ICECI 2021.
+* **Session Chair** for ICDE 2023, AAAI 2023, BIBM 2023.
 * **Senior PC/PC Member** for AAAI 2023, ICLR 2023, EACL 2023, AAAI 2022, ACL 2022, ICLR 2022, IJCAI 2022, NeurIPS 2021, IJCAI 2021, AAAI 2021, ACL 2021, IJCAI 2020, AAAI 2020, EMNLP 2020, IJCAI 2019, AAAI 2019, IJCAI 2018, IJCAI 2015, AAAI 2014, KR 2012, etc.
 * **Invited Reviewer** for TKDE, AIJ, Machine Learning, Data Intelligence, etc.
 
