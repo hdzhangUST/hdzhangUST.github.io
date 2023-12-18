@@ -32,6 +32,7 @@ Recent News
 ------
 * `2023.12` `PAPER` Our Demo of FeVisQA, Free-Form Question Answering over Data Visualization, has been accepted by _**ICDE**_ 2024 Demo Track
 * `2023.11` `ACTIVITY` Invited to serve as a Session chair for _BIBM_ 2023
+* `2023.10` `PAPER` Our Paper, Integrating Automated Knowledge Extraction with Large Language Models for Explainable Medical Decision-Making, has been accepted by _**BIBM**_ 2023
 * `2023.7` `ACTIVITY` Invited to give a talk on the annual conference of South China Financial Executive Association (SCFEA), Shenzhen
 * `2023.4` `ACTIVITY` Invited to serve as a Session chair for _ICDE_ 2023
 * `2023.4` `ACTIVITY` Invited to serve as a Session chair for _AAAI_ 2023
