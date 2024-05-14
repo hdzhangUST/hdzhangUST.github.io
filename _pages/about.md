@@ -17,6 +17,8 @@ Dr. Haodi Zhang ([张昊迪](https://csse.szu.edu.cn/pages/user/index?id=792))
 **Associate Professor**<br>
 **Deputy Director, Department of Software Engineering**<br>
 **[College of Computer Science and Software Engineering, Shenzhen University](http://csse.szu.edu.cn/)**<br>
+**Adjunct Assistant Professor**<br>
+**[Thrust of Data Science and Analytics, Hong Kong University of Science and Technology (Guangzhou)](https://facultyprofiles.hkust-gz.edu.cn/thrust-faculties?code=10011A10000000000H2C)**<br>
 **Email: [zhanghd.ustc@gmail.com](mailto:zhanghd.ustc@gmail.com)**
 
 
