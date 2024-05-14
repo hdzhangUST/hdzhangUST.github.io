@@ -15,8 +15,8 @@ redirect_from:
 Dr. Haodi Zhang ([张昊迪](https://csse.szu.edu.cn/pages/user/index?id=792))
 ======
 **Associate Professor**<br>
-**[College of Computer Science and Software Engineering](http://csse.szu.edu.cn/)**<br>
-**[Shenzhen University](https://www.szu.edu.cn/)**<br>
+**Deputy Director, Department of Software Engineering**<br>
+**[College of Computer Science and Software Engineering, Shenzhen University]**(http://csse.szu.edu.cn/)<br>
 **Email: [zhanghd.ustc@gmail.com](mailto:zhanghd.ustc@gmail.com)**
 
 
