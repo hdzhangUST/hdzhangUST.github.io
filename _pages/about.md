@@ -32,9 +32,12 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `2024.10` `AWARD` Received First Prize of Science and Technology Award of Guangdong Artificial Intelligence Industry Association (广东省人工智能产业协会科学技术奖一等奖)
+* `2024.10` `AWARD` Received First Prize for the Outstanding Speaker of the "Famous Teacher Lecture Series" at Shenzhen University (深圳大学“名师讲座”优秀主讲人一等奖)
 * `2023.12` `AWARD` Received Tencent Outstanding Teacher Award (腾讯益友奖)
-<!---* `2023.12` `PAPER` Our Demo of FeVisQA, Free-Form Question Answering over Data Visualization, has been accepted by _**ICDE**_ 2024 Demo Track--->
+* `2023.12` `PAPER` Our Demo of FeVisQA, Free-Form Question Answering over Data Visualization, has been accepted by _**ICDE**_ 2024 Demo Track
 * `2023.11` `ACTIVITY` Invited to serve as a session chair for _BIBM_ 2023
+* `2024.10` `AWARD` Received Second Prize for the Outstanding Speaker of the "Famous Scholars Visiting Middle Schools" Program (深圳大学“名师进中学”优秀主讲人二等奖)
 * `2023.10` `PAPER` Our Paper, Integrating Automated Knowledge Extraction with Large Language Models for Explainable Medical Decision-Making, has been accepted by _**BIBM**_ 2023
 * `2023.7` `ACTIVITY` Invited to give a talk on the annual conference of South China Financial Executive Association (SCFEA), Shenzhen
 * `2023.4` `ACTIVITY` Invited to serve as a session chair for _ICDE_ 2023
@@ -45,10 +48,12 @@ Recent News
 * `2022.8` `AWARD` Congratulations to Peirou Liang, Xiaofeng Tan and Minhan Chen in our group for the Second Prize of 15th _National College Students Computer Design Competition_ (_N4C_ Finals)
 * `2022.5` `AWARD` Congratulations to Peirou Liang, Chengwei He and Liangqiu Xiao in our group for Finalist Award in the _Mathematical Contest in Modeling_ 2022
 * `2022.1` `AWARD` Received the Second Prize of Shenzhen University in Guangdong Teaching Innovation Contest
-* `2021.12` `PAPER` Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/21421) on task-oriented dialog policy learning with contextual knowledge has been accepted by _**AAAI**_ 2022 (acceptance rate 15%). <a href="https://github.com/ResearchGroupHdZhang/DPL_AAAI22">Code</a>
-* `2021.08` `PAPER` Our paper on burstness-aware web search analysis has been accepted by _**TKDE**_ 
+
 <details markdown=1>
   <summary markdown="span"><span style="color:maroon;font-size:22px"><b>Earlier Highlights ...</b></span></summary>
+
+* `2021.12` `PAPER` Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/21421) on task-oriented dialog policy learning with contextual knowledge has been accepted by _**AAAI**_ 2022 (acceptance rate 15%). <a href="https://github.com/ResearchGroupHdZhang/DPL_AAAI22">Code</a>
+* `2021.08` `PAPER` Our paper on burstness-aware web search analysis has been accepted by _**TKDE**_ 
   
   * `2021.07` `ACTIVITY` Invited to serve as a distinguished supervisor for HKUST One Million Dollar Entrepreneurship [Competition](https://mp.weixin.qq.com/s/XFbXyrjN7QriaaXtfsDwzQ)
   * `2021.06` `ACTIVITY` Invited to serve as a local chair for [_EAI ICECI 2021_](https://iceci-conference.eai-conferences.org/2021/call-for-papers/)

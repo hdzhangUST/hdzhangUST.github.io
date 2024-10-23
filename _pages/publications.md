@@ -199,6 +199,22 @@ tr:hover {background-color: #2C5561;color:white;}
       <td style="height:24px; text-align:center; width:266px">机器学习算法工程师</td>
     </tr>
     <tr>
+      <td style="height:24px; text-align:center; width:70px">蔡旻</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2024</td>
+      <td style="height:24px; text-align:center; width:174px">智谱</td>
+      <td style="height:24px; text-align:center; width:180px"> </td>
+      <td style="height:24px; text-align:center; width:266px"> </td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">聂金银</td>
+      <td style="height:24px; text-align:center; width:63px">研究生</td>
+      <td style="height:24px; text-align:center; width:54px">2024</td>
+      <td style="height:24px; text-align:center; width:174px">比亚迪</td>
+      <td style="height:24px; text-align:center; width:180px"> </td>
+      <td style="height:24px; text-align:center; width:266px">高级底盘工程师</td>
+    </tr>
+    <tr>
       <td style="height:24px; text-align:center; width:70px">彭义辉</td>
       <td style="height:24px; text-align:center; width:63px">本科生</td>
       <td style="height:24px; text-align:center; width:54px">2019</td>
@@ -373,6 +389,14 @@ tr:hover {background-color: #2C5561;color:white;}
       <td style="height:24px; text-align:center; width:174px">新凯来</td>
       <td style="height:24px; text-align:center; width:180px">研发部门</td>
       <td style="height:24px; text-align:center; width:266px">研发工程师</td>
+    </tr>
+    <tr>
+      <td style="height:24px; text-align:center; width:70px">梁霈柔</td>
+      <td style="height:24px; text-align:center; width:63px">本科生</td>
+      <td style="height:24px; text-align:center; width:54px">2024</td>
+      <td style="height:24px; text-align:center; width:174px">网络与空间安全学院</td>
+      <td style="height:24px; text-align:center; width:180px"> </td>
+      <td style="height:24px; text-align:center; width:266px">硕士研究生</td>
     </tr>
   </tbody>
 </table>
