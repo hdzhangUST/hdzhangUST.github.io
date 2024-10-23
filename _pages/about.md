@@ -37,7 +37,7 @@ Recent News
 * `2023.12` `AWARD` Received Tencent Outstanding Teacher Award (腾讯益友奖)
 * `2023.12` `PAPER` Our Demo of FeVisQA, Free-Form Question Answering over Data Visualization, has been accepted by _**ICDE**_ 2024 Demo Track
 * `2023.11` `ACTIVITY` Invited to serve as a session chair for _BIBM_ 2023
-* `2024.10` `AWARD` Received Second Prize for the Outstanding Speaker of the "Famous Scholars Visiting Middle Schools" Program (深圳大学“名师进中学”优秀主讲人二等奖)
+* `2023.10` `AWARD` Received Second Prize for the Outstanding Speaker of the "Famous Scholars Visiting Middle Schools" Program (深圳大学“名师进中学”优秀主讲人二等奖)
 * `2023.10` `PAPER` Our Paper, Integrating Automated Knowledge Extraction with Large Language Models for Explainable Medical Decision-Making, has been accepted by _**BIBM**_ 2023
 * `2023.7` `ACTIVITY` Invited to give a talk on the annual conference of South China Financial Executive Association (SCFEA), Shenzhen
 * `2023.4` `ACTIVITY` Invited to serve as a session chair for _ICDE_ 2023
@@ -73,6 +73,10 @@ Recent News
 
 Selected Honors and Awards
 ------
+* 2024 First Prize of Science and Technology Award of Guangdong Artificial Intelligence Industry Association (广东省人工智能产业协会科学技术奖一等奖)
+* 2024 First Prize for the Outstanding Speaker of the “Famous Teacher Lecture Series” at Shenzhen University (深圳大学“名师讲座”优秀主讲人一等奖)
+* 2023 Tencent Outstanding Teacher Award (腾讯益友奖优秀班主任)
+* 2023 Second Prize for the Outstanding Speaker of the “Famous Scholars Visiting Middle Schools” Program (深圳大学“名师进中学”优秀主讲人二等奖)
 * 2022 Outstanding Teacher Award of Shenzhen University
 * 2022 2nd Prize of Shenzhen University in Teaching Innovation Contest
 * 2021 Outstanding Undergraduate Course Award, Shenzhen University
@@ -85,7 +89,11 @@ Selected Honors and Awards
 * 2019 Best New Teacher Award, CSSE, Shenzhen University
 * 2018 'Peacock' High-level Talent, Shenzhen City
 
-**Faculty Advior Awards**
+**Supervision Awards**
+* 2024 The Third Prize of 17th _Guangdong College Students Computer Design Competition_ 
+
+* 2023 The Third Prize of 16th _Guangdong College Students Computer Design Competition_ 
+
 * 2022 The Second Prize of 15th _National College Students Computer Design Competition_ (_N4C_ Finals)
   * Students: Peirou Liang, Xiaofeng Tan and Minhan Chen
 * 2022 Finalist Award in the _Mathematical Contest in Modeling_
