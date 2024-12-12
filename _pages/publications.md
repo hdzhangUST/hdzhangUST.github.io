@@ -17,6 +17,8 @@ Research Interests
 
 <span id='publist'>Selected Publications</span>
 ------
+1. [<font color=Blue>ICDE-25</font>] Jinwei Lu, Yuanfeng Song<sup>*</sup>, **Haodi Zhang<sup>*</sup>**, Chen Zhang, Kaishun Wu, Raymond Chi-Wing Wong. Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability, in _Proceedings of 41st IEEE International Conference on Data Engineering_ (Accepted)
+1. [<font color=Blue>COLING-25</font>] **Haodi Zhang**, Junyu Yang, Jinyin Nie, Peirou Liang, Kaishun Wu, Defu Lian, Rui Mao and Yuanfeng Song. Efficient Data Labeling by Hierarchical Crowdsourcing with Large Language Models, in _Proceedings of International Conference on Computational Linguistics_ (Accepted)
 1. [<font color=Blue>ICDE-24 Demo</font>] Yuanfeng Song, Jinwei Lu, Xuefang Zhao, Raymond Chi-Wing Wong, **Haodi Zhang<sup>*</sup>**. Demonstration of FeVisQA: Free-Form Question Answering over Data Visualization, in _Proceedings of IEEE International Conference on Data Engineering_ (Accepted)
 1. [<font color=Blue>CSCWD-24</font>] **Haodi Zhang**, Junyu Yang, Wenxi Huang, Min Cai, Jiahong Li, Chen Zhang and Kaisu Wu. Recognizing Textual Entailment by Hierarchical Crowdsourcing with Diverse Labor Costs, in _Proceedings of 27th International Conference on Computer Supported Cooperative Work in Design_ (Accepted)
 1. [<font color=Blue>ICDE-23</font>] **Haodi Zhang**, Wenxi Huang, Zhenhan Su, Junyang Chen, Di Jiang, Lixin Fan, Chen Zhang, Defu Lian and Kaishun Wu. Hierarchical Crowdsourcing for Data Labeling with Heterogeneous Crowd, in _Proceedings of IEEE International Conference on Data Engineering_ (Accepted, **CCF-A**) <a href="https://github.com/ResearchGroupHdZhang/HC-code">Code</a>
