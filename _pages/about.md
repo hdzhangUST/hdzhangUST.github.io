@@ -32,7 +32,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `2024.12` `ACTIVITY` Invited to serve as a area chair for _IJCAI_ 2025
+* `2024.12` `ACTIVITY` Invited to serve as an Area Chair for _**IJCAI**_ 2025
 * `2024.11` `PAPER` Our paper Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability has been accepted by _**ICDE**_ 2025
 * `2024.10` `AWARD` Received First Prize of Science and Technology Award of Guangdong Artificial Intelligence Industry Association (广东省人工智能产业协会科学技术奖一等奖)
 * `2024.10` `AWARD` Received First Prize for the Outstanding Speaker of the "Famous Teacher Lecture Series" at Shenzhen University (深圳大学“名师讲座”优秀主讲人一等奖)
