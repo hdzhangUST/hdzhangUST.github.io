@@ -17,7 +17,6 @@ Research Interests
 
 <span id='publist'>Selected Publications</span>
 ------
-
 1. [<font color=Blue>ICASSP-25</font>] **Haodi Zhang<sup>*</sup>**, Yichi Wang, Yifan Jian, Jiahui Jiang, Zhaohai Bai, Lin Ma. 
 Climate Downscaling Using Neural Operator: Spatiotemporal Multimodal Fusion Operator with State-Query Coupled Kernel, in _Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing_ (Accepted)
 1. [<font color=Blue>ICDE-25</font>] Jinwei Lu, Yuanfeng Song<sup>*</sup>, **Haodi Zhang<sup>*</sup>**, Chen Zhang, Kaishun Wu, Raymond Chi-Wing Wong. Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability, in _Proceedings of 41st IEEE International Conference on Data Engineering_ (Accepted)
