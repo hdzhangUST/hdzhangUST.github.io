@@ -32,6 +32,8 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `2024.12` `ACTIVITY` Invited to serve as a area chair for _IJCAI_ 2025
+* `2024.11` `PAPER` Our paper Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability has been accepted by _**ICDE**_ 2025
 * `2024.10` `AWARD` Received First Prize of Science and Technology Award of Guangdong Artificial Intelligence Industry Association (广东省人工智能产业协会科学技术奖一等奖)
 * `2024.10` `AWARD` Received First Prize for the Outstanding Speaker of the "Famous Teacher Lecture Series" at Shenzhen University (深圳大学“名师讲座”优秀主讲人一等奖)
 * `2023.12` `AWARD` Received Tencent Outstanding Teacher Award (腾讯益友奖)
@@ -42,6 +44,10 @@ Recent News
 * `2023.7` `ACTIVITY` Invited to give a talk on the annual conference of South China Financial Executive Association (SCFEA), Shenzhen
 * `2023.4` `ACTIVITY` Invited to serve as a session chair for _ICDE_ 2023
 * `2023.4` `ACTIVITY` Invited to serve as a session chair for _AAAI_ 2023
+
+<details markdown=1>
+  <summary markdown="span"><span style="color:maroon;font-size:22px"><b>Earlier Highlights ...</b></span></summary>
+
 * `2022.12` `ACTIVITY` Invited to give a talk on the _[Bay Area Fintech University Forum](https://mp.weixin.qq.com/s/ssm4M0IlVAdh8KV_8CTVYA)_, Shenzhen
 * `2022.11` `PAPER` Our paper on hierarchical crowdsourcing for data labeling has been accepted by _**ICDE**_ 2023
 * `2022.11` `AWARD` Received the Outstanding Teacher Award of Shenzhen University
@@ -49,8 +55,6 @@ Recent News
 * `2022.5` `AWARD` Congratulations to Peirou Liang, Chengwei He and Liangqiu Xiao in our group for Finalist Award in the _Mathematical Contest in Modeling_ 2022
 * `2022.1` `AWARD` Received the Second Prize of Shenzhen University in Guangdong Teaching Innovation Contest
 
-<details markdown=1>
-  <summary markdown="span"><span style="color:maroon;font-size:22px"><b>Earlier Highlights ...</b></span></summary>
 
 * `2021.12` `PAPER` Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/21421) on task-oriented dialog policy learning with contextual knowledge has been accepted by _**AAAI**_ 2022 (acceptance rate 15%). <a href="https://github.com/ResearchGroupHdZhang/DPL_AAAI22">Code</a>
 * `2021.08` `PAPER` Our paper on burstness-aware web search analysis has been accepted by _**TKDE**_ 
