@@ -32,7 +32,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `2025.1` `AWARD` Received Distinguished Department Director Award (卓越系主任)
+* `2025.1` `AWARD` Received Distinguished Department Director Award, CSSE, Shenzhen University (深圳大学卓越系主任)
 * `2024.12` `ACTIVITY` Invited to serve as an Area Chair for _**IJCAI**_ 2025
 * `2024.11` `PAPER` Our paper Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability has been accepted by _**ICDE**_ 2025
 * `2024.10` `AWARD` Received First Prize of Science and Technology Award of Guangdong Artificial Intelligence Industry Association (广东省人工智能产业协会科学技术奖一等奖)
@@ -78,6 +78,7 @@ Recent News
 
 Selected Honors and Awards
 ------
+* 2025 Distinguished Department Director Award, CSSE, Shenzhen University (深圳大学卓越系主任)
 * 2024 First Prize of Science and Technology Award of Guangdong Artificial Intelligence Industry Association (广东省人工智能产业协会科学技术奖一等奖)
 * 2024 First Prize for the Outstanding Speaker of the “Famous Teacher Lecture Series” at Shenzhen University (深圳大学“名师讲座”优秀主讲人一等奖)
 * 2023 Tencent Outstanding Teacher Award (腾讯益友奖优秀班主任)
