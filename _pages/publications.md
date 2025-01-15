@@ -24,8 +24,8 @@ Climate Downscaling Using Neural Operator: Spatiotemporal Multimodal Fusion Oper
 1. [<font color=Blue>ICDE-24 Demo</font>] Yuanfeng Song, Jinwei Lu, Xuefang Zhao, Raymond Chi-Wing Wong, **Haodi Zhang<sup>*</sup>**. Demonstration of FeVisQA: Free-Form Question Answering over Data Visualization, in _Proceedings of IEEE International Conference on Data Engineering_ (Accepted)
 1. [<font color=Blue>BIBM-24</font>] **Haodi Zhang**, Jinyin Nie, Zeming Liu, Dong Lei, and Yuanfeng Song. Automatic SQL
  Query Generation from Code Switched Natural Language Questions on Electronic Med
-ical Records, in Proceedings of  IEEE International Conference on Bioinformatics and
- Biomedicine (Accepted)
+ical Records, in _Proceedings of IEEE International Conference on Bioinformatics and
+ Biomedicine_ (Accepted)
 1. [<font color=Blue>CSCWD-24</font>] **Haodi Zhang**, Junyu Yang, Wenxi Huang, Min Cai, Jiahong Li, Chen Zhang and Kaisu Wu. Recognizing Textual Entailment by Hierarchical Crowdsourcing with Diverse Labor Costs, in _Proceedings of 27th International Conference on Computer Supported Cooperative Work in Design_ (Accepted)
 1. [<font color=Blue>ICDE-23</font>] **Haodi Zhang**, Wenxi Huang, Zhenhan Su, Junyang Chen, Di Jiang, Lixin Fan, Chen Zhang, Defu Lian and Kaishun Wu. Hierarchical Crowdsourcing for Data Labeling with Heterogeneous Crowd, in _Proceedings of IEEE International Conference on Data Engineering_ (Accepted, **CCF-A**) <a href="https://github.com/ResearchGroupHdZhang/HC-code">Code</a>
 1. [<font color=Blue>AAAI-23</font>] Jin Zhang, Defu Lian, **Haodi Zhang**, Baoyun Wang, Enhong Chen. Query-aware Quantization for Maximum Inner Product Search, in _Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence_ (Accepted, **CCF-A**)
