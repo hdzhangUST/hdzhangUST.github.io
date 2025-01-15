@@ -15,7 +15,7 @@ redirect_from:
 Dr. Haodi Zhang ([张昊迪](https://csse.szu.edu.cn/pages/user/index?id=792))
 ======
 **Associate Professor**<br>
-**Deputy Director, Department of Software Engineering**<br>
+**Associate Department Head, Department of Software Engineering**<br>
 **[College of Computer Science and Software Engineering, Shenzhen University](http://csse.szu.edu.cn/)**<br>
 **Adjunct Assistant Professor**<br>
 **[Thrust of Data Science and Analytics, Hong Kong University of Science and Technology (Guangzhou)](https://facultyprofiles.hkust-gz.edu.cn/thrust-faculties?code=10011A10000000000H2C)**<br>
@@ -23,7 +23,7 @@ Dr. Haodi Zhang ([张昊迪](https://csse.szu.edu.cn/pages/user/index?id=792))
 
 
 
-I am currently an Associate Professor in Computer Science and Software Engineering, Shenzhen University, China. 
+I am currently an Associate Professor in Computer Science and Software Engineering, Associate Head of Software Engineering Department, Colledge of Computer Science and Software Engineering, Shenzhen University, China. 
 I received my Ph.D. degree in Computer Science from  CSE of Hong Kong University of Science and Technology in 2016, supervised by [Prof. Fangzhen Lin](https://www.cse.ust.hk/admin/people/faculty/profile/flin). Before that, I received my B.S. in Computer Science from University of Science and Technology of China in 2009.
 
 Research Interests
@@ -32,7 +32,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `2025.1` `AWARD` Received Distinguished Department Director Award, CSSE, Shenzhen University (深圳大学卓越系主任)
+* `2025.1` `AWARD` Received Distinguished Department Head Award, CSSE, Shenzhen University (深圳大学卓越系主任)
 * `2024.12` `ACTIVITY` Invited to serve as an Area Chair for _**IJCAI**_ 2025
 * `2024.11` `PAPER` Our paper Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability has been accepted by _**ICDE**_ 2025
 * `2024.10` `AWARD` Received First Prize of Science and Technology Award of Guangdong Artificial Intelligence Industry Association (广东省人工智能产业协会科学技术奖一等奖)
