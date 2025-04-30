@@ -30,6 +30,8 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `2025.4` `PAPER` Three full papers and one demo paper accepted by _**IJCAI**_ 2025!
+* `2025.4` `PAPER` Two full papers and one demo paper accepted by _**ICDE**_ 2025!
 * `2023.12` `PAPER` Our Demo of FeVisQA, Free-Form Question Answering over Data Visualization, has been accepted by _**ICDE**_ 2024 Demo Track
 * `2023.11` `ACTIVITY` Invited to serve as a Session chair for _BIBM_ 2023
 * `2023.10` `PAPER` Our Paper, Integrating Automated Knowledge Extraction with Large Language Models for Explainable Medical Decision-Making, has been accepted by _**BIBM**_ 2023
