@@ -32,6 +32,8 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
+* `2025.4` `PAPER` Three full papers and one demo paper have been accepted by _**IJCAI**_ 2025!
+* `2025.4` `PAPER` Two full papers and one demo paper have been accepted by _**ICDE**_ 2025
 * `2025.1` `AWARD` Received Distinguished Department Head Award, CSSE, Shenzhen University (深圳大学卓越系主任)
 * `2024.12` `ACTIVITY` Invited to serve as an Area Chair for _**IJCAI**_ 2025
 * `2024.11` `PAPER` Our paper Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability has been accepted by _**ICDE**_ 2025
