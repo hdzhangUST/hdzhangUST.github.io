@@ -78,6 +78,7 @@ Recent News
 
 Selected Honors and Awards
 ------
+* 2025 Second Prize for Teaching Achievements, Chinese Institute of Electronics (中国电子学会教学成果二等奖)
 * 2025 Distinguished Department Director Award, CSSE, Shenzhen University (深圳大学卓越系主任)
 * 2024 First Prize of Science and Technology Award of Guangdong Artificial Intelligence Industry Association (广东省人工智能产业协会科学技术奖一等奖)
 * 2024 First Prize for the Outstanding Speaker of the “Famous Teacher Lecture Series” at Shenzhen University (深圳大学“名师讲座”优秀主讲人一等奖)
@@ -96,10 +97,10 @@ Selected Honors and Awards
 * 2018 'Peacock' High-level Talent, Shenzhen City
 
 **Supervision Awards**
-* 2024 The Third Prize of 17th _Guangdong College Students Computer Design Competition_ 
-
-* 2023 The Third Prize of 16th _Guangdong College Students Computer Design Competition_ 
-
+* 2025 Top 100 Excellent Undergraduate Thesis Award of Shenzhen University, Jinwei Lu
+* 2025 Outstanding Internship Supervisor of Shenzhen University
+* 2024 The Third Prize of 17th _Guangdong College Students Computer Design Competition_
+* 2023 The Third Prize of 16th _Guangdong College Students Computer Design Competition_
 * 2022 The Second Prize of 15th _National College Students Computer Design Competition_ (_N4C_ Finals)
   * Students: Peirou Liang, Xiaofeng Tan and Minhan Chen
 * 2022 Finalist Award in the _Mathematical Contest in Modeling_
