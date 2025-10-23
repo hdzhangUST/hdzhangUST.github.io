@@ -78,6 +78,7 @@ Recent News
 
 Selected Honors and Awards
 ------
+* 2025 First Prize for the Outstanding Speaker of the “Famous Teacher Lecture Series” at Shenzhen University (深圳大学“名师讲座”优秀主讲人一等奖)
 * 2025 Second Prize for Teaching Achievements, Chinese Institute of Electronics (中国电子学会教学成果二等奖)
 * 2025 Distinguished Department Director Award, CSSE, Shenzhen University (深圳大学卓越系主任)
 * 2024 First Prize of Science and Technology Award of Guangdong Artificial Intelligence Industry Association (广东省人工智能产业协会科学技术奖一等奖)
