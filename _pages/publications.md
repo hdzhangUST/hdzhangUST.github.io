@@ -17,6 +17,7 @@ Research Interests
 
 <span id='publist'>Selected Publications</span>
 ------
+1. [<font color=Blue>Nature Food</font>] Lu Zhang<sup>#</sup>, Junyu Yang<sup>#</sup>, Junjie Liu<sup>#</sup>, Qishun Zhou, Xuan Wang<sup>*</sup>, Haodi Zhang<sup>*</sup>, Yazhan Ren, Zhaohai Bai, Lin Ma<sup>*</sup>. Machine Learning-driven Precision Strategies to Mitigate Nitrogen and Carbon Losses from Organic Waste Composting, _Nature Food_ (Accepted, **IF: 21.9**)
 1. [<font color=Blue>ECML-PKDD-25</font>] **Haodi Zhang**, Xinhe Zhang, Jihua Zhou, Kaishun Wu, Yuanfeng Song, Raymond Chi-Wing Wong. Speech-to-Visualization: Toward End-to-End Speech-Driven Data Visualization Generation from Natural Language Questions, in _Proceedings of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases_ (**CCF-B**)
 1. [<font color=Blue>CIKM-25 Demo</font>] **Haodi Zhang**, Xiaohui Tang, Xinhe Zhang, Jihua Zhou and Yuanfeng Song, VoiceVisSystem: End-to-End Voice-driven Data Visualization Generation from Natural Language Questions, in Proceedings of _the Conference on Information and Knowledge Management_
 1. [<font color=Blue>IJCAI-25</font>] **Haodi Zhang**, Xiangyu Zeng, Junyang Chen, Yuanfeng Song, Rui Mao, Fangzhen Lin. Deduction with Induction: Combining Knowledge Discovery and Reasoning for Interpretable Deep Reinforcement Learning, in _Proceedings of 34th International Joint Conference on Artificial Intelligence_ (**CCF-A**)
