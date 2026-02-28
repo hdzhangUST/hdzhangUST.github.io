@@ -32,7 +32,7 @@ Artificial Intelligence, Knowledge Representation and Reasoning, Answer Set Prog
 
 Recent News
 ------
-* `2026.2` `PAPER` A paper we co-authored with Professor [Lin Ma](hjxy.nju.edu.cn/szdw/hjghyglx/js/20240119/i259453.html)'s team at Nanjing University has been accepted by _**Nature Food**_!
+* `2026.2` `PAPER` A paper we co-authored with Professor [Lin Ma](https://hjxy.nju.edu.cn/szdw/hjghyglx/js/20240119/i259453.html)'s team at Nanjing University has been accepted by _**Nature Food**_!
 * `2025.4` `PAPER` Three full papers and one demo paper have been accepted by _**IJCAI**_ 2025!
 * `2025.4` `PAPER` Two full papers and one demo paper have been accepted by _**ICDE**_ 2025
 * `2025.1` `AWARD` Received Distinguished Department Head Award, CSSE, Shenzhen University (深圳大学卓越系主任)
