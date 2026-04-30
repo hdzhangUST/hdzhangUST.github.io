@@ -32,6 +32,7 @@
   --ccf-a:        #DC2626;
   --ccf-b:        #E08A2C;
   --journal:      #2563EB;
+  --nature:       #0a6e4f;
   --tag-other:    #9CA3AF;
 }
 
@@ -346,6 +347,12 @@ a:hover {
 
 .venue-tag.journal {
   background: var(--journal);
+}
+
+.venue-tag.nature {
+  background: linear-gradient(135deg, #047857, #0a6e4f);
+  box-shadow: 0 0 0 1px rgba(10, 110, 79, 0.4), 0 2px 6px rgba(10, 110, 79, 0.3);
+  letter-spacing: 0.02em;
 }
 
 .venue-tag.other {
