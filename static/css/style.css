@@ -354,6 +354,17 @@ a:hover {
   color: #D4AF37;
 }
 
+.lang-toggle {
+  background: var(--accent);
+  color: #fff !important;
+  padding: 0.25rem 0.7rem;
+  border-radius: 999px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  transition: background 0.15s ease;
+}
+.lang-toggle:hover { background: #b86c1f; }
+
 .venue-tag.other {
   background: var(--tag-other);
 }
