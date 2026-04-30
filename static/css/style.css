@@ -779,9 +779,9 @@ details[open] summary {
     border: none;
     padding: 1.25rem 1rem;
     margin: 2.5rem auto;
-    max-width: 42rem;
-    font-size: 1rem;
-    line-height: 1.8;
+    max-width: 44rem;
+    font-size: 1.2rem;
+    line-height: 1.85;
 }
 .epigraph::before,
 .epigraph::after {
@@ -797,9 +797,9 @@ details[open] summary {
 .epigraph::after  { margin-top: 1rem; }
 .epigraph cite {
     display: block;
-    margin-top: 0.6rem;
+    margin-top: 0.75rem;
     font-style: normal;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     letter-spacing: 0.12em;
     color: var(--text-muted);
 }
