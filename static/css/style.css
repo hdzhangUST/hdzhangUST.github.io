@@ -771,17 +771,34 @@ details[open] summary {
 /* 20. Epigraph
    ============================================================================= */
 .epigraph {
+    font-family: Georgia, "Times New Roman", "Songti SC", serif;
     font-style: italic;
     color: var(--text-muted);
-    border-left: 3px solid var(--accent-light);
-    padding: 0.5rem 1rem;
-    margin: 1rem 0 2rem;
-    font-size: 0.9rem;
+    text-align: center;
+    border: none;
+    padding: 1.25rem 1rem;
+    margin: 2.5rem auto;
+    max-width: 42rem;
+    font-size: 1rem;
+    line-height: 1.8;
 }
+.epigraph::before,
+.epigraph::after {
+    content: "";
+    display: block;
+    width: 3rem;
+    height: 1px;
+    margin: 0 auto;
+    background: var(--accent);
+    opacity: 0.45;
+}
+.epigraph::before { margin-bottom: 1.1rem; }
+.epigraph::after  { margin-top: 1rem; }
 .epigraph cite {
     display: block;
-    text-align: right;
-    margin-top: 0.25rem;
+    margin-top: 0.6rem;
     font-style: normal;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.12em;
+    color: var(--text-muted);
 }
