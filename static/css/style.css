@@ -30,7 +30,7 @@
   --accent:       #E08A2C;
   --accent-light: #FDF0E0;
   --ccf-a:        #DC2626;
-  --csrankings:   #DC2626;
+  --venue-red:    #DC2626;
   --ccf-b:        #E08A2C;
   --journal:      #2563EB;
   --nature:       #0a6e4f;
@@ -342,8 +342,8 @@ a:hover {
   background: var(--ccf-a);
 }
 
-.venue-tag.csrankings {
-  background: var(--csrankings);
+.venue-tag.venue-red {
+  background: var(--venue-red);
 }
 
 .venue-tag.ccf-b {
