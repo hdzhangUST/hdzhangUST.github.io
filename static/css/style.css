@@ -32,6 +32,7 @@
   --ccf-a:        #DC2626;
   --venue-red:    #DC2626;
   --ccf-b:        #E08A2C;
+  --ccf-b-outline: #A85A00;
   --journal:      #2563EB;
   --nature:       #0a6e4f;
   --tag-other:    #9CA3AF;
@@ -335,6 +336,7 @@ a:hover {
   border-radius: 1rem;
   font-size: 0.75rem;
   font-weight: 600;
+  border: 1px solid transparent;
   color: white;
 }
 
@@ -344,6 +346,18 @@ a:hover {
 
 .venue-tag.venue-red {
   background: var(--venue-red);
+}
+
+.venue-tag.venue-outline-red {
+  background: #fff;
+  border: 1px solid var(--ccf-a);
+  color: var(--ccf-a);
+}
+
+.venue-tag.venue-outline-orange {
+  background: #fff;
+  border: 1px solid var(--ccf-b-outline);
+  color: var(--ccf-b-outline);
 }
 
 .venue-tag.ccf-b {
